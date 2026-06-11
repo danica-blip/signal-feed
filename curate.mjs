@@ -55,7 +55,7 @@ async function callApi() {
       "anthropic-version": "2023-06-01",
     },
     body: JSON.stringify({
-      model: "claude-sonnet-4-20250514",
+      model: "claude-3-5-sonnet-latest",
       max_tokens: 4000,
       messages: [{ role: "user", content: PROMPT }],
       tools: [{ type: "web_search_20250305", name: "web_search", max_uses: 6 }],
