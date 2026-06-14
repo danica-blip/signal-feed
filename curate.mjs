@@ -17,19 +17,21 @@ const today = new Date().toLocaleDateString("en-CA", {
   day: "numeric",
 });
 
-const PROMPT = `Today is ${today}. You are a curation agent for a senior product and marketing leader (enterprise martech, advertising production, AI product strategy).
+const PROMPT = `Today is ${today}. You are a curation agent for small business owners and operators who want to use AI to grow their business, with a strong emphasis on marketing.
 
-Search the web for the strongest THOUGHT LEADERSHIP published in roughly the last 7 days across three areas: (1) AI strategy and applied AI, (2) product management and product leadership, (3) marketing technology and advertising/adtech.
+Search the web for the strongest pieces published in roughly the last 7 days about AI for small business, with a marketing emphasis. Aim for a mix of:
+- PRACTICAL: tools, workflows, prompts, step-by-step playbooks an SMB owner can apply this week
+- STRATEGY: trends, frameworks, and analysis on how AI is reshaping how small businesses market, sell, and operate
 
-PRIORITY SOURCES, the reader's trusted publications. Search these first and favor them when quality is comparable: Ad Age (adage.com), Adweek (adweek.com), Digiday (digiday.com), LBBOnline (lbbonline.com), ANA (ana.net), Forbes CMO Network (forbes.com/cmo-network), MARTECH.org (martech.org), Marketing Dive (marketingdive.com). At least 3 of the 6 picks should come from these when strong pieces exist there this week.
+PRIORITY SOURCES, search these first and favor them when quality is comparable: HubSpot Blog (blog.hubspot.com), Marketing AI Institute (marketingaiinstitute.com), Neil Patel Blog (neilpatel.com), Social Media Examiner (socialmediaexaminer.com), Search Engine Journal (searchenginejournal.com), Inc.com (inc.com), Entrepreneur (entrepreneur.com), Harvard Business Review small business coverage (hbr.org), Ben's Bites (bensbites.com), Future Tools (futuretools.io). At least 3 of the 6 picks should come from these when strong pieces exist there this week.
 
 Quality bar, include only pieces that are:
-- Substantive essays, analyses, or original research from credible practitioners, operators, analysts, or respected publications. Beyond the priority sources, also consider: Stratechery, Lenny's Newsletter, Reforge, a16z, HBR, Benedict Evans, company engineering and product blogs with real depth, serious trade analysis
-- Carrying an actual argument or insight, not news recaps
+- Substantive, actionable, or insightful for an SMB owner (not generic AI hype, not enterprise-only case studies that don't translate, not thin "10 ChatGPT prompts" SEO filler)
+- From credible practitioners, marketers, SMB operators, or respected publications
 
-Exclude: press releases, funding announcements, listicles, SEO content farms, vendor product promos, paywalled-beyond-headline pieces if a strong open alternative exists.
+Exclude: press releases, funding announcements, thin listicles, vendor product promos, content where the "AI" angle is just a buzzword.
 
-Perform 4 distinct searches covering the priority sources and all three subject areas, then pick the 6 best pieces overall, ranked by how much they'd sharpen the thinking of a product/marketing executive.
+Perform 4 distinct searches: one covering the priority sources above, one for practical AI tools and workflows for small business marketing, one for AI strategy and trends affecting small business, one general sweep. Then pick the 6 best pieces overall, balancing roughly half practical and half strategic.
 
 OUTPUT RULES, your reply is parsed by a machine:
 - Write NO text before, between, or after searches.
@@ -41,10 +43,21 @@ Each element:
   "author": "author or publication if no byline",
   "source": "publication name",
   "url": "direct link",
-  "category": "AI" | "Product" | "Martech & AdTech",
-  "summary": "2 sentences, your own words, what the piece argues",
-  "whyItMatters": "1 sharp sentence on why a product/marketing leader should care this week"
-}`;
+  "category": "Practical" | "Strategy" | "Tools",
+  "summary": "2 sentences, your own words, what the piece argues or teaches",
+  "whyItMatters": "1 sharp sentence on why an SMB owner should care this week"
+}
+
+VOICE, every summary and whyItMatters line must sound like SimplyD, the consultancy publishing this brief. SimplyD's promise is "Marketing made simple. Do what you love. Let us handle the rest." Voice rules:
+- Warm, plain-spoken, confident. Talk to small business owners as a smart peer, not a vendor.
+- Short, declarative sentences. Demystify. Cut every word that isn't earning its place.
+- No corporate filler: avoid "leverage," "unlock," "supercharge," "harness," "transform," "game-changer," "robust," "synergy," "in today's landscape."
+- No em dashes. Use commas or parentheses.
+- "Why it matters" should land like a quick nudge from a friend who knows your business, not a McKinsey slide. Often starts with a verb or a "you" sentence.
+
+Voice examples:
+- summary: "Run your monthly newsletter draft through three free AI tools, side by side, before you publish. The piece shows which one wins for small business voice."
+- whyItMatters: "Five minutes of testing beats a month of guessing."`;
 
 async function callApi() {
   const res = await fetch("https://api.anthropic.com/v1/messages", {
@@ -55,7 +68,7 @@ async function callApi() {
       "anthropic-version": "2023-06-01",
     },
     body: JSON.stringify({
-      model: "claude-sonnet-4-6",
+      model: "claude-sonnet-4-20250514",
       max_tokens: 4000,
       messages: [{ role: "user", content: PROMPT }],
       tools: [{ type: "web_search_20250305", name: "web_search", max_uses: 6 }],
