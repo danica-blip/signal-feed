@@ -1,60 +1,60 @@
 {
-  "weekOf": "Jun 5 to Jun 11, 2026",
-  "generatedAt": "2026-06-11T04:41:24.808Z",
+  "weekOf": "Jun 8 to Jun 14, 2026",
+  "generatedAt": "2026-06-14T16:01:56.480Z",
   "articles": [
     {
-      "title": "The Truth About Martech in 2026",
-      "author": "MarTech",
-      "source": "MarTech (martech.org)",
-      "url": "https://martech.org/the-truth-about-martech-in-2026/",
-      "category": "Martech & AdTech",
-      "summary": "The piece argues that 2026 is the year AI experimentation collides with accountability, exposing a hard split between organizations that built genuine capability versus those that merely bought tools. It levels a pointed critique at agentic AI hype—citing Gartner's prediction that 40%+ of agentic projects will be canceled—and argues that broken marketing processes simply get amplified at machine speed, while attribution models are already failing because buyer AI agents shortlist vendors before analytics ever registers a visit.",
-      "whyItMatters": "If you're betting martech budget on agentic AI this year, this piece provides the sharpest reality check on governance gaps, data quality failures, and the emerging Lab vs. Factory split in marketing ops—all of which will define where AI spending is wasted versus compounded."
+      "title": "These Marketing Trends Are Helping Small Businesses Get Ahead in 2026",
+      "author": "Neil Patel",
+      "source": "Entrepreneur",
+      "url": "https://www.entrepreneur.com/growing-a-business/marketing-trends-for-small-businesses-to-get-ahead-in-2026/503281",
+      "category": "Strategy",
+      "summary": "Neil Patel argues that small businesses need to stop thinking of marketing as a set of channels and start seeing it as infrastructure. The big 2026 shift: AI doesn't just assist anymore, it runs systems, and being referenced by AI assistants matters more than ranking on a search results page.",
+      "whyItMatters": "If you're still optimizing for clicks, you're optimizing for a game that already changed. Read this to understand what the new one looks like."
     },
     {
-      "title": "Digiday+ Research: The Marketer's Guide to AI Applications, Agentic AI, AI Search and GEO/AEO in 2026",
-      "author": "Digiday Research",
-      "source": "Digiday (digiday.com)",
-      "url": "https://digiday.com/marketing/digiday-research-the-marketers-guide-to-ai-applications-agentic-ai-ai-search-and-geo-aeo-in-2026/",
-      "category": "Martech & AdTech",
-      "summary": "Based on a survey of 142 brand and agency professionals plus executive interviews, this research report maps where AI has actually embedded in marketing workflows versus where it's still aspirational, with a sharp focus on the divergence between agentic AI (adopted by fewer than half of respondents) and the rapidly accelerating AI search/GEO challenge. A standout thread: earned media and organic social—especially Reddit—are emerging as strategic vectors for LLM influence, not just brand presence.",
-      "whyItMatters": "This is the most data-grounded snapshot of where the real practitioner adoption curve sits on agentic AI and AI search—a must-read before any Q3 martech or media budget review."
+      "title": "Is Your Marketing Invisible? What HubSpot's 2026 Report Says About Standing Out in an AI-Saturated Market",
+      "author": "Salesfully",
+      "source": "Salesfully (covering HubSpot 2026 State of Marketing Report)",
+      "url": "https://www.salesfully.com/single-post/is-your-marketing-invisible-what-hubspot-s-2026-report-says-about-standing-out-in-an-ai-saturated-m",
+      "category": "Strategy",
+      "summary": "HubSpot's 2026 State of Marketing data shows 56% of marketers say the internet is flooded with AI-generated content, and 65% say consumers are getting better at ignoring it. The piece makes the case that for small businesses with limited output, depth and a clear point of view are now the actual competitive edge.",
+      "whyItMatters": "You don't need to outproduce anyone. You need to publish one piece no one else could have written. This report tells you why that strategy wins right now."
     },
     {
-      "title": "The State of Agentic Advertising",
-      "author": "Digiday (sponsored by Optable)",
-      "source": "Digiday (digiday.com)",
-      "url": "https://digiday.com/sponsored/the-state-of-agentic-advertising/",
-      "category": "Martech & AdTech",
-      "summary": "Drawing on original industry research across publishers, advertisers, and agencies, this report documents that agentic AI investment is concentrated in media buying optimization (70%) and measurement (58%), while governance and human-in-the-loop controls lag badly—a structural mismatch that is slowing broader adoption. The piece argues that as AI takes over operational execution, agencies are repositioning as the connective layer between media, retail data, and measurement rather than campaign operators.",
-      "whyItMatters": "With programmatic agentic workflows going live at scale, the governance gap flagged here is the specific liability that advertising production and adtech leaders need to get ahead of now."
+      "title": "AI Marketing Predictions That Will Shape 2026",
+      "author": "HubSpot Blog",
+      "source": "HubSpot Blog",
+      "url": "https://blog.hubspot.com/marketing/ai-predictions-marketing",
+      "category": "Strategy",
+      "summary": "HubSpot's forward-looking piece maps how AI agents, AI-powered search, and hyper-personalization are moving from experiments to everyday marketing infrastructure. A key signal: 40.6% of marketers are already updating their SEO strategy specifically for AI-powered search engines.",
+      "whyItMatters": "This is HubSpot's own read on where marketing is heading, backed by data from 1,500+ marketers. Worth 20 minutes to see which of these shifts are already affecting your customers."
     },
     {
-      "title": "5 Ways AI Changed Marketing Strategy in Just One Year",
-      "author": "MarTech / Scott Brinker & Frans Riemersma analysis",
-      "source": "MarTech (martech.org)",
-      "url": "https://martech.org/five-ways-ai-changed-marketing-strategy-in-just-one-year/",
-      "category": "AI",
-      "summary": "Unpacking the 'Martech for 2026' report by Scott Brinker and Frans Riemersma, this piece identifies five structural shifts: the bar has moved from efficiency to growth-driving AI; 85% of companies are augmenting existing stacks rather than replacing them; poor data quality has overtaken access as the top AI barrier; MOps is becoming a 'business value engineering' function; and Context Engineering—not prompt engineering—is now the critical discipline for reliable AI output.",
-      "whyItMatters": "The Brinker/Riemersma annual report is the closest thing to a census of marketing AI maturity, and this distillation surfaces the stack augmentation vs. rip-and-replace debate that every enterprise martech leader is navigating right now."
+      "title": "6 Ways to Prepare Your Business for AI in 2026",
+      "author": "Search Engine Journal",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/partner-resources/6-ways-to-prepare-your-business-for-ai-in-2026/",
+      "category": "Practical",
+      "summary": "Built from a CallRail survey of 600 small and mid-size businesses, this checklist covers six concrete areas where AI produces measurable pipeline and revenue, including lead scoring, ad targeting, and call intelligence. It focuses specifically on connecting AI tools to clean data across the full lead lifecycle, not just the top of the funnel.",
+      "whyItMatters": "This isn't theory. It's a checklist from businesses your size, telling you exactly where they got results. Start with the lead follow-up section this week."
     },
     {
-      "title": "10 AI Marketing Trends for 2026",
-      "author": "Adweek",
-      "source": "Adweek (adweek.com)",
-      "url": "https://www.adweek.com/brand-marketing/10-ai-marketing-trends-for-2026-agentic-ai-and-search-shifts/",
-      "category": "AI",
-      "summary": "The piece argues that marketing is shifting from a relay-race model between specialized teams to a 'control room' model overseeing agentic AI workflows, and that as AI scales execution, human leadership judgment—specifically the willingness to make hard trade-offs on build vs. buy, optimization vs. differentiation, and where humans remain essential—becomes the primary competitive differentiator. It highlights how marketing organizations are still planning incrementally while AI capability compounds exponentially.",
-      "whyItMatters": "This framing of 'humans supervise, agents operate' is the most actionable mental model for a CMO or CPO reconfiguring team structures and operating models around AI execution this year."
+      "title": "AI for Small Business: 26 Essential Tools for Real Business Growth",
+      "author": "HubSpot Blog",
+      "source": "HubSpot Blog",
+      "url": "https://blog.hubspot.com/sales/small-business-ai-tools",
+      "category": "Tools",
+      "summary": "HubSpot's guide maps 26 AI tools across marketing, sales, and customer service for small teams, with clear explanations of what each one does and where it earns its keep. The marketing section is especially useful, covering content creation, campaign optimization, and channel testing without requiring a big budget or a tech team.",
+      "whyItMatters": "Think of this as a shopping list with a sensible return policy. Pick two tools from categories where you're losing the most time, and try them before adding anything else."
     },
     {
-      "title": "Product Management Trends: 11 Shifts Shaping 2026",
-      "author": "Product School",
-      "source": "Product School (productschool.com)",
-      "url": "https://productschool.com/blog/product-fundamentals/product-management-trends",
-      "category": "Product",
-      "summary": "Drawing on interviews with CPOs and founders at ProductCon, this piece makes a sharp argument that 'learning speed is your moat' in an era where AI lets any competitor clone a product experience in weeks—meaning the teams that win are those with the fastest signal-to-action loops, not the best roadmaps. It also documents a structural ratio flip: teams are moving from roughly 1 PM per 4 engineers toward 2 PMs per 1 engineer as AI accelerates engineering output, fundamentally blurring role boundaries between product, design, and engineering.",
-      "whyItMatters": "The PM-to-engineer ratio inversion alone should force a rethink of headcount, org design, and what 'product leadership' means at a company deploying AI-accelerated development in 2026."
+      "title": "AI Marketing for Small Business: A Practical Guide to Getting Real Results",
+      "author": "Upward Engine",
+      "source": "Upward Engine",
+      "url": "https://upwardengine.com/blog/ai-marketing-for-small-business/",
+      "category": "Practical",
+      "summary": "This guide cuts through the tool overload problem by giving small business owners a simple operating framework: pick one revenue problem, one workflow, and one owner before touching any software. It maps specific AI solutions to specific business problems, like slow lead response, weak local visibility, and rising ad costs, so you're not guessing where to start.",
+      "whyItMatters": "Most AI rollouts fail because owners sign up for three tools with no clear goal. This piece gives you the decision process to avoid that trap before it costs you money."
     }
   ]
 }
