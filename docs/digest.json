@@ -1,24 +1,15 @@
 {
-  "weekOf": "Jun 23 to Jun 29, 2026",
-  "generatedAt": "2026-06-29T18:20:19.116Z",
+  "weekOf": "Jun 30 to Jul 6, 2026",
+  "generatedAt": "2026-07-06T18:22:58.522Z",
   "articles": [
     {
-      "title": "Three Steps to Start Integrating AI and AI Agents Into Your Marketing Workflows",
-      "author": "Cathy McPhillips",
-      "source": "Marketing AI Institute",
-      "url": "https://www.marketingaiinstitute.com/blog/ai-b2b-marketers-summit-ai-agents",
+      "title": "Answer Engine Visibility: The Playbook for Marketers",
+      "author": "HubSpot Blog",
+      "source": "HubSpot Blog",
+      "url": "https://blog.hubspot.com/marketing/ai-search-visibility",
       "category": "Practical",
-      "summary": "A practitioner survey found the two things marketers want most are workflow integration training and AI agent know-how, so this piece delivers exactly that: a three-step playbook from Rachel Woods, a leading agent automation specialist. The framework starts with designing from the business problem first, not the tool, then building the smallest playbook that works and stacking wins from there.",
-      "whyItMatters": "If your team is using AI but nothing has actually changed, this is the piece that explains why and tells you the first concrete move to fix it."
-    },
-    {
-      "title": "Google I/O 2026, Google Marketing Live 2026, and the Future of Marketing",
-      "author": "Neil Patel",
-      "source": "Neil Patel Blog",
-      "url": "https://neilpatel.com/blog/google-io-2026/",
-      "category": "Strategy",
-      "summary": "Neil Patel unpacks what Google Marketing Live 2026 means for every business running ads: Google's ad stack is being rebuilt around Gemini-powered agents, which means marketers now feed goals and data to AI systems that handle more of the execution. The big shift is that better results will go to businesses with clean first-party data and clear goals, not those with the most manual campaign expertise.",
-      "whyItMatters": "Google just changed how ads work. You need to know what that means for your budget before your competitors figure it out."
+      "summary": "HubSpot lays out a step-by-step playbook for getting your brand cited by AI tools like ChatGPT, Gemini, and Perplexity, not just ranked on Google. It covers how to structure content for AI extraction, add freshness signals, and track your 'answer engine share of voice' inside HubSpot dashboards.",
+      "whyItMatters": "If AI assistants can't describe your business clearly, you're losing customers you never even knew were looking for you."
     },
     {
       "title": "These Marketing Trends Are Helping Small Businesses Get Ahead in 2026",
@@ -26,26 +17,26 @@
       "source": "Entrepreneur",
       "url": "https://www.entrepreneur.com/growing-a-business/marketing-trends-for-small-businesses-to-get-ahead-in-2026/503281",
       "category": "Strategy",
-      "summary": "Neil Patel argues that the marketing funnel is broken and the real 2026 shift is treating marketing as infrastructure, not a set of channels. AI search now gives answers instead of pointing people to websites, so being referenced by AI assistants matters more than ranking for keywords.",
-      "whyItMatters": "If your only online presence is your website, you are invisible in more places than you think. This piece explains what to do about it."
+      "summary": "Neil Patel argues that the classic marketing funnel is broken, and that in 2026 being referenced by AI systems matters more than ranking on a search page. He walks through three concrete moves: auditing where humans still do work AI can handle, shifting from channel thinking to system thinking, and building a presence AI can recognize and return to.",
+      "whyItMatters": "Your website alone is no longer enough. If you only show up in one place, you're invisible in more places than you think."
     },
     {
-      "title": "Is There an AI Gap Growing Inside Your Marketing Team?",
-      "author": "Marketing AI Institute",
-      "source": "Marketing AI Institute",
-      "url": "https://www.marketingaiinstitute.com/blog/podcast-ai-gap-marketing",
+      "title": "How I Went From Side Hustle to 7 Figures in 12 Months Using 4 AI Tools (No Employees, No Investors)",
+      "author": "Ben Angel",
+      "source": "Entrepreneur",
+      "url": "https://www.entrepreneur.com/business-news/how-i-went-from-side-hustle-to-7-figures-in-12-months-using-4-ai-tools-no-employees-no-investors",
       "category": "Practical",
-      "summary": "In most teams, a handful of people have quietly figured out how to use AI well while everyone else is still guessing, and that gap is growing. This piece gives you a concrete three-part fix: find your internal power users, make their workflows visible, and build shared prompt libraries that spread what works across the whole team.",
-      "whyItMatters": "One person's AI skills staying inside their own account is a waste. This shows you how to turn individual wins into a team-wide system."
+      "summary": "Published July 1, 2026, this piece breaks down a four-tool AI stack (NoteGPT, Perplexity, Lyro AI, and Instantly) that handles content research, 24/7 lead conversations, and cold outreach scoring, while the owner focuses only on decisions. It also shows how to run a 'top 1% marketing analyst' prompt on your own email data to surface the winning patterns most owners miss.",
+      "whyItMatters": "You don't need more tools. You need four that talk to each other, and this piece shows exactly which ones and in what order."
     },
     {
-      "title": "AI Marketing Statistics 2026 Every Business Owner Should Know",
-      "author": "Lilach Bullock",
-      "source": "LilachBullock.com",
-      "url": "https://www.lilachbullock.com/ai-marketing-statistics-2026/",
+      "title": "FAQ on Inbound Marketing: How AI and GTM Engineering Are Rewriting the Playbook in 2026",
+      "author": "eMarketer",
+      "source": "eMarketer",
+      "url": "https://www.emarketer.com/content/faq-on-inbound-marketing--how-ai-gtm-engineering-rewriting-playbook-2026",
       "category": "Strategy",
-      "summary": "Published this week, this piece pulls together fresh June 2026 data, including an original analysis of 30 AI search terms showing that generic searches are falling while AI agent and automation searches are up 31% year over year. It also surfaces the number that matters most for SMBs: marketers using AI are getting back an average of 6.1 hours a week, which adds up fast on a small team.",
-      "whyItMatters": "These numbers are current and specific, exactly what you need to make the case internally (or to yourself) for where to focus your AI time right now."
+      "summary": "Backed by Cognism's Inside Inbound 2026 data, this piece shows that organic traffic dropped 33.6% year-over-year for B2B companies while direct MQLs grew 6%, because buyers now research through AI tools and return only to brands they already trust. It explains the rise of GTM engineering, where marketing automation, data, and AI are combined into one scalable go-to-market workflow that replaces the old inbound funnel.",
+      "whyItMatters": "Fewer people are clicking through your content to find you. The businesses winning right now are the ones buyers already know before they ever reach out."
     },
     {
       "title": "AI for Small Businesses: 26 Essential Tools for Real Business Growth",
@@ -53,8 +44,17 @@
       "source": "HubSpot Blog",
       "url": "https://blog.hubspot.com/sales/small-business-ai-tools",
       "category": "Tools",
-      "summary": "HubSpot's curated, function-by-function guide to 26 AI tools actually suited for small teams, covering content, customer support, sales, and operations. It skips the hype by including real practitioner quotes on what works in the field, including a warning to read the fine print on data privacy before signing up for anything.",
-      "whyItMatters": "Stop guessing which tools are worth your time. This is a well-organized starting point you can open today and act on by Friday."
+      "summary": "HubSpot's curated guide organizes 26 vetted AI tools by business function (customer support, content, sales, ops) and pairs each category with a real-world ROI case, so you can match tool to need instead of chasing hype. It includes honest caveats from practitioners, including a data-privacy warning worth reading before you connect any new tool to your business.",
+      "whyItMatters": "Stop scrolling Twitter for tool recommendations. This is a curated, function-by-function list you can act on this week."
+    },
+    {
+      "title": "The Biggest AI Marketing Trends for 2026",
+      "author": "Goran Mirković",
+      "source": "WordStream",
+      "url": "https://www.wordstream.com/blog/2026-ai-marketing-trends",
+      "category": "Strategy",
+      "summary": "This piece makes a sharp argument that paid media success in 2026 is no longer about bid management. It's about the quality of what you feed the AI: your product descriptions, image variations, customer reviews, and landing page structure. Businesses that give AI-ad platforms rich, consistent inputs will outperform those giving thin data, no matter how much they spend.",
+      "whyItMatters": "Before you raise your ad budget, read this. Your inputs are now your strategy."
     }
   ]
 }
