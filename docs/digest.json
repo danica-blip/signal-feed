@@ -1,15 +1,15 @@
 {
-  "weekOf": "Jun 30 to Jul 6, 2026",
-  "generatedAt": "2026-07-06T18:22:58.522Z",
+  "weekOf": "Jul 7 to Jul 13, 2026",
+  "generatedAt": "2026-07-13T17:32:43.543Z",
   "articles": [
     {
-      "title": "Answer Engine Visibility: The Playbook for Marketers",
-      "author": "HubSpot Blog",
-      "source": "HubSpot Blog",
-      "url": "https://blog.hubspot.com/marketing/ai-search-visibility",
-      "category": "Practical",
-      "summary": "HubSpot lays out a step-by-step playbook for getting your brand cited by AI tools like ChatGPT, Gemini, and Perplexity, not just ranked on Google. It covers how to structure content for AI extraction, add freshness signals, and track your 'answer engine share of voice' inside HubSpot dashboards.",
-      "whyItMatters": "If AI assistants can't describe your business clearly, you're losing customers you never even knew were looking for you."
+      "title": "AI Is Changing How Customers Choose Your Business",
+      "author": "Graham Kenny and Ganna Pogrebna",
+      "source": "Harvard Business Review",
+      "url": "https://hbr.org/2026/07/ai-is-changing-how-customers-choose-your-business",
+      "category": "Strategy",
+      "summary": "AI is now the middleman between your business and your next customer. Through three real SMB case studies, the authors show how a manufacturer, a boutique hotel, and a B2B software company each adapted when AI tools began shaping how buyers find, evaluate, and choose suppliers.",
+      "whyItMatters": "Google your own business name in ChatGPT right now. What it says about you is what your next customer sees first."
     },
     {
       "title": "These Marketing Trends Are Helping Small Businesses Get Ahead in 2026",
@@ -17,26 +17,8 @@
       "source": "Entrepreneur",
       "url": "https://www.entrepreneur.com/growing-a-business/marketing-trends-for-small-businesses-to-get-ahead-in-2026/503281",
       "category": "Strategy",
-      "summary": "Neil Patel argues that the classic marketing funnel is broken, and that in 2026 being referenced by AI systems matters more than ranking on a search page. He walks through three concrete moves: auditing where humans still do work AI can handle, shifting from channel thinking to system thinking, and building a presence AI can recognize and return to.",
-      "whyItMatters": "Your website alone is no longer enough. If you only show up in one place, you're invisible in more places than you think."
-    },
-    {
-      "title": "How I Went From Side Hustle to 7 Figures in 12 Months Using 4 AI Tools (No Employees, No Investors)",
-      "author": "Ben Angel",
-      "source": "Entrepreneur",
-      "url": "https://www.entrepreneur.com/business-news/how-i-went-from-side-hustle-to-7-figures-in-12-months-using-4-ai-tools-no-employees-no-investors",
-      "category": "Practical",
-      "summary": "Published July 1, 2026, this piece breaks down a four-tool AI stack (NoteGPT, Perplexity, Lyro AI, and Instantly) that handles content research, 24/7 lead conversations, and cold outreach scoring, while the owner focuses only on decisions. It also shows how to run a 'top 1% marketing analyst' prompt on your own email data to surface the winning patterns most owners miss.",
-      "whyItMatters": "You don't need more tools. You need four that talk to each other, and this piece shows exactly which ones and in what order."
-    },
-    {
-      "title": "FAQ on Inbound Marketing: How AI and GTM Engineering Are Rewriting the Playbook in 2026",
-      "author": "eMarketer",
-      "source": "eMarketer",
-      "url": "https://www.emarketer.com/content/faq-on-inbound-marketing--how-ai-gtm-engineering-rewriting-playbook-2026",
-      "category": "Strategy",
-      "summary": "Backed by Cognism's Inside Inbound 2026 data, this piece shows that organic traffic dropped 33.6% year-over-year for B2B companies while direct MQLs grew 6%, because buyers now research through AI tools and return only to brands they already trust. It explains the rise of GTM engineering, where marketing automation, data, and AI are combined into one scalable go-to-market workflow that replaces the old inbound funnel.",
-      "whyItMatters": "Fewer people are clicking through your content to find you. The businesses winning right now are the ones buyers already know before they ever reach out."
+      "summary": "Neil Patel argues that the classic marketing funnel is broken and that ranking on Google matters less than being cited by AI systems. He lays out why small businesses need to think of marketing as infrastructure, not a channel mix, and where to focus hiring and system-building in 2026.",
+      "whyItMatters": "If your brand only exists on your website, you are already invisible in more places than you think."
     },
     {
       "title": "AI for Small Businesses: 26 Essential Tools for Real Business Growth",
@@ -44,17 +26,35 @@
       "source": "HubSpot Blog",
       "url": "https://blog.hubspot.com/sales/small-business-ai-tools",
       "category": "Tools",
-      "summary": "HubSpot's curated guide organizes 26 vetted AI tools by business function (customer support, content, sales, ops) and pairs each category with a real-world ROI case, so you can match tool to need instead of chasing hype. It includes honest caveats from practitioners, including a data-privacy warning worth reading before you connect any new tool to your business.",
-      "whyItMatters": "Stop scrolling Twitter for tool recommendations. This is a curated, function-by-function list you can act on this week."
+      "summary": "HubSpot maps out 26 road-tested AI tools organized by business function, from customer support to content creation to sales. Real operators share how they use them, and the guide flags what to watch out for, including data privacy trade-offs when feeding business information into third-party platforms.",
+      "whyItMatters": "Skip the trial-and-error phase. This list tells you which tools are already working for teams your size."
     },
     {
-      "title": "The Biggest AI Marketing Trends for 2026",
-      "author": "Goran Mirković",
-      "source": "WordStream",
-      "url": "https://www.wordstream.com/blog/2026-ai-marketing-trends",
+      "title": "July 2026 Marketing Trends: AI Search, TikTok & Data",
+      "author": "Bernie (B2The7)",
+      "source": "B2The7",
+      "url": "https://www.b2the7.com/news-blog/marketing-trends-july-2026-ai-search-tiktok-data",
       "category": "Strategy",
-      "summary": "This piece makes a sharp argument that paid media success in 2026 is no longer about bid management. It's about the quality of what you feed the AI: your product descriptions, image variations, customer reviews, and landing page structure. Businesses that give AI-ad platforms rich, consistent inputs will outperform those giving thin data, no matter how much they spend.",
-      "whyItMatters": "Before you raise your ad budget, read this. Your inputs are now your strategy."
+      "summary": "Published this week, this piece covers five forces reshaping marketing right now: Google's June spam update, AI chatbots becoming the primary discovery tool for shoppers, TikTok banning AI voices in shopping livestreams, growing consumer distrust of AI-generated ads, and first-party data becoming the most valuable targeting asset you own.",
+      "whyItMatters": "57% of consumers already distrust AI-generated ads. Keep a real human in front of the camera and your own email list close."
+    },
+    {
+      "title": "AI Marketing Trends for 2026: Strategy & Data Insights",
+      "author": "Improvado",
+      "source": "Improvado Blog",
+      "url": "https://improvado.io/blog/ai-marketing-trends",
+      "category": "Strategy",
+      "summary": "This is a rigorous, data-backed breakdown of seven AI marketing trends, complete with a prioritization matrix that helps you decide which trends to act on now versus later based on your business type. It includes a cautionary case study of a company that lost 34% of organic traffic by ignoring AI-optimized search, and a real budget allocation breakdown showing where most businesses over- and under-invest.",
+      "whyItMatters": "Not every trend belongs on your to-do list. Use this matrix to figure out which two actually move revenue for your type of business."
+    },
+    {
+      "title": "SUCCESS STRATEGIES: The AI Tools Small Businesses Are Using",
+      "author": "Karen Kerrigan",
+      "source": "Small Business & Entrepreneurship Council",
+      "url": "https://sbecouncil.org/2026/04/25/the-ai-tools-small-businesses-are-using/",
+      "category": "Practical",
+      "summary": "Drawing from SBE Council's March 2026 survey of small business employers, this piece reveals that 82% have already invested in AI tools and the average business now runs a stack of five. It identifies the category leaders across content creation, marketing, automation, customer engagement, and the fast-rising area of AI-powered pricing tools, with clear guidance on how to build your stack without breaking what already works.",
+      "whyItMatters": "Your competitors are already running five AI tools. This tells you which five are actually worth it."
     }
   ]
 }
