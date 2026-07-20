@@ -1,6 +1,6 @@
 {
-  "weekOf": "Jul 7 to Jul 13, 2026",
-  "generatedAt": "2026-07-13T17:32:43.543Z",
+  "weekOf": "Jul 14 to Jul 20, 2026",
+  "generatedAt": "2026-07-20T12:14:43.455Z",
   "articles": [
     {
       "title": "AI Is Changing How Customers Choose Your Business",
@@ -8,8 +8,35 @@
       "source": "Harvard Business Review",
       "url": "https://hbr.org/2026/07/ai-is-changing-how-customers-choose-your-business",
       "category": "Strategy",
-      "summary": "AI is now the middleman between your business and your next customer. Through three real SMB case studies, the authors show how a manufacturer, a boutique hotel, and a B2B software company each adapted when AI tools began shaping how buyers find, evaluate, and choose suppliers.",
-      "whyItMatters": "Google your own business name in ChatGPT right now. What it says about you is what your next customer sees first."
+      "summary": "Drawing on three real SMB cases, a manufacturer, a boutique hotel, and a B2B software company, the authors show how AI is now sitting between your business and your buyers. Each company had to stop assuming customers came to them directly and start managing how AI tools described, recommended, or filtered them.",
+      "whyItMatters": "Your Google Business Profile is no longer your first impression. An AI summary might be. Read this to understand what you actually control now."
+    },
+    {
+      "title": "5 Marketing & Digital Trends: Week of July 20, 2026",
+      "author": "B2The7",
+      "source": "B2The7",
+      "url": "https://www.b2the7.com/news-blog/marketing-trends-july-2026-ai-mode-ads-ga4-ai-traffic",
+      "category": "Strategy",
+      "summary": "Published this week, this tight briefing covers five concrete shifts landing right now: AI-generated images inside Google Overviews, ads appearing on nearly one in three commercial AI Mode queries, new ChatGPT Ads geo-exclusion controls, a new GA4 channel for tracking AI-referred traffic, and LinkedIn splitting reach into in-network and out-of-network. Each one comes with a clear so-what for small businesses running lean paid and organic programs.",
+      "whyItMatters": "GA4 now has a dedicated AI traffic channel. Set it up this week so you actually know how many visitors are arriving from ChatGPT and Perplexity, not just Google."
+    },
+    {
+      "title": "This Week in Digital Marketing: Google's AI Business Summaries, TikTok Search Ads, and Tighter Email Rules",
+      "author": "Keene Digital",
+      "source": "Keene Digital",
+      "url": "https://keenedigital.com/blog/marketing-news-week-of-july-13-2026/",
+      "category": "Practical",
+      "summary": "A practitioner-written roundup covering three specific changes that hit small businesses this week: Google testing AI-generated summaries on Business Profile listings built from your reviews, TikTok Search Ads opening to 14 local service categories including home services and dental, and tighter email spam thresholds dropping to 0.1% for bulk senders. Each item includes a direct action to take.",
+      "whyItMatters": "If your customers are under 40 and you offer a local service, TikTok Search Ads just opened a new placement your competitors probably haven't found yet."
+    },
+    {
+      "title": "15 AI Marketing Workflows for Small Business",
+      "author": "Teamday",
+      "source": "Teamday",
+      "url": "https://www.teamday.ai/blog/ai-marketing-workflows-small-business",
+      "category": "Practical",
+      "summary": "Published July 15, this guide gives you 15 copy-ready AI marketing workflows built around customer outcomes, not tools. Each workflow has six defined parts: a trigger, input source, job, output, human review gate, and a measurement step. The core advice is to start with the workflow closest to lost revenue, not the most interesting one.",
+      "whyItMatters": "Pick one workflow, not fifteen. This guide tells you exactly how to build it so it actually runs week after week without falling apart."
     },
     {
       "title": "These Marketing Trends Are Helping Small Businesses Get Ahead in 2026",
@@ -17,44 +44,17 @@
       "source": "Entrepreneur",
       "url": "https://www.entrepreneur.com/growing-a-business/marketing-trends-for-small-businesses-to-get-ahead-in-2026/503281",
       "category": "Strategy",
-      "summary": "Neil Patel argues that the classic marketing funnel is broken and that ranking on Google matters less than being cited by AI systems. He lays out why small businesses need to think of marketing as infrastructure, not a channel mix, and where to focus hiring and system-building in 2026.",
-      "whyItMatters": "If your brand only exists on your website, you are already invisible in more places than you think."
+      "summary": "Neil Patel argues that the marketing funnel is broken and the real shift in 2026 is that AI doesn't just help with execution, it runs whole systems. Ranking in search matters less than being cited by AI. Small businesses that win aren't running more campaigns, they're designing better systems and hiring for judgment, not task execution.",
+      "whyItMatters": "If your brand only exists on your own website, you're invisible in more places than you think. This piece tells you what to fix first."
     },
     {
       "title": "AI for Small Businesses: 26 Essential Tools for Real Business Growth",
-      "author": "HubSpot Blog",
+      "author": "HubSpot",
       "source": "HubSpot Blog",
       "url": "https://blog.hubspot.com/sales/small-business-ai-tools",
       "category": "Tools",
-      "summary": "HubSpot maps out 26 road-tested AI tools organized by business function, from customer support to content creation to sales. Real operators share how they use them, and the guide flags what to watch out for, including data privacy trade-offs when feeding business information into third-party platforms.",
-      "whyItMatters": "Skip the trial-and-error phase. This list tells you which tools are already working for teams your size."
-    },
-    {
-      "title": "July 2026 Marketing Trends: AI Search, TikTok & Data",
-      "author": "Bernie (B2The7)",
-      "source": "B2The7",
-      "url": "https://www.b2the7.com/news-blog/marketing-trends-july-2026-ai-search-tiktok-data",
-      "category": "Strategy",
-      "summary": "Published this week, this piece covers five forces reshaping marketing right now: Google's June spam update, AI chatbots becoming the primary discovery tool for shoppers, TikTok banning AI voices in shopping livestreams, growing consumer distrust of AI-generated ads, and first-party data becoming the most valuable targeting asset you own.",
-      "whyItMatters": "57% of consumers already distrust AI-generated ads. Keep a real human in front of the camera and your own email list close."
-    },
-    {
-      "title": "AI Marketing Trends for 2026: Strategy & Data Insights",
-      "author": "Improvado",
-      "source": "Improvado Blog",
-      "url": "https://improvado.io/blog/ai-marketing-trends",
-      "category": "Strategy",
-      "summary": "This is a rigorous, data-backed breakdown of seven AI marketing trends, complete with a prioritization matrix that helps you decide which trends to act on now versus later based on your business type. It includes a cautionary case study of a company that lost 34% of organic traffic by ignoring AI-optimized search, and a real budget allocation breakdown showing where most businesses over- and under-invest.",
-      "whyItMatters": "Not every trend belongs on your to-do list. Use this matrix to figure out which two actually move revenue for your type of business."
-    },
-    {
-      "title": "SUCCESS STRATEGIES: The AI Tools Small Businesses Are Using",
-      "author": "Karen Kerrigan",
-      "source": "Small Business & Entrepreneurship Council",
-      "url": "https://sbecouncil.org/2026/04/25/the-ai-tools-small-businesses-are-using/",
-      "category": "Practical",
-      "summary": "Drawing from SBE Council's March 2026 survey of small business employers, this piece reveals that 82% have already invested in AI tools and the average business now runs a stack of five. It identifies the category leaders across content creation, marketing, automation, customer engagement, and the fast-rising area of AI-powered pricing tools, with clear guidance on how to build your stack without breaking what already works.",
-      "whyItMatters": "Your competitors are already running five AI tools. This tells you which five are actually worth it."
+      "summary": "HubSpot's updated guide organizes 26 AI tools by business function, with honest notes on what each one actually solves, from 24/7 customer support gaps to lean-team content production. It includes real quotes from SMB operators and a clear framework for choosing tools based on your biggest current bottleneck, not what's trending.",
+      "whyItMatters": "You don't need 26 tools. But this list helps you figure out which two or three match the exact problem you're trying to solve right now."
     }
   ]
 }
