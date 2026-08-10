@@ -1,15 +1,15 @@
 {
-  "weekOf": "Jul 28 to Aug 3, 2026",
-  "generatedAt": "2026-08-03T12:54:15.073Z",
+  "weekOf": "Aug 4 to Aug 10, 2026",
+  "generatedAt": "2026-08-10T11:05:29.607Z",
   "articles": [
     {
-      "title": "AI Marketing Predictions That Will Shape 2026",
-      "author": "HubSpot Blog",
-      "source": "HubSpot Blog",
-      "url": "https://blog.hubspot.com/marketing/ai-predictions-marketing",
+      "title": "5 Marketing Trends: Week of August 10, 2026",
+      "author": "B2the7",
+      "source": "B2the7",
+      "url": "https://www.b2the7.com/news-blog/marketing-trends-august-10-2026",
       "category": "Strategy",
-      "summary": "HubSpot's 2026 State of Marketing data lays out where AI is actually heading for marketers, including the rise of agentic AI that plans, runs, and optimizes full campaigns on its own, and the shift from keyword SEO to Answer Engine Optimization (AEO) where your content needs to speak to both AI models and humans at once. The piece ties big-picture predictions to real adoption numbers, giving you a clear view of what's already happening versus what's still coming.",
-      "whyItMatters": "If you're still doing SEO the old way, this is the article that explains why your visibility is quietly slipping, and what to do instead."
+      "summary": "Published this week, this piece breaks down five forces reshaping where small businesses get found right now: AI shopping agents are choosing products for buyers without caring about your brand name, Google AI Overviews keep swallowing organic clicks, and new research shows 75% of consumers find the marketing they receive irrelevant. Each trend comes with a specific action, not just an observation.",
+      "whyItMatters": "AI agents are already shopping for your customers. If your product data is messy, you're invisible to them before the sale even starts."
     },
     {
       "title": "These Marketing Trends Are Helping Small Businesses Get Ahead in 2026",
@@ -17,35 +17,26 @@
       "source": "Entrepreneur",
       "url": "https://www.entrepreneur.com/growing-a-business/marketing-trends-for-small-businesses-to-get-ahead-in-2026/503281",
       "category": "Strategy",
-      "summary": "Neil Patel argues that the biggest 2026 marketing shift isn't a new channel, it's how you build your team and your systems. With AI handling execution, you don't need a big department anymore, you need people who can brief clearly, spot patterns, and make decisions, and the businesses winning are the ones designing repeatable marketing infrastructure instead of one-off campaigns.",
-      "whyItMatters": "Before you buy another tool, read this. It reframes where your real competitive edge actually comes from."
+      "summary": "Neil Patel argues that the classic marketing funnel is broken and that small businesses need to stop thinking in channels and start thinking in systems. The piece makes a sharp case that AI now runs the executional layer of marketing, which means the real competitive edge shifts to the owner who can brief clearly and read the results, not the one with the biggest team.",
+      "whyItMatters": "You do not need more staff. You need a clearer system. This piece shows you what that looks like in practice."
     },
     {
-      "title": "July 2026 Marketing Trends: AI Search, TikTok & Data",
-      "author": "B2The7",
-      "source": "b2the7.com",
-      "url": "https://www.b2the7.com/news-blog/marketing-trends-july-2026-ai-search-tiktok-data",
-      "category": "Strategy",
-      "summary": "Published in the last week of July, this round-up covers the five shifts that matter most right now for local and small businesses, including the finding that AI agents are already handling 14 percent of consumer purchases with that number potentially doubling by year-end, and why first-party data (your email list, your CRM, your own site behavior) is now the most defensible asset you own. It's written for the business owner who is personally responsible for getting found and turning attention into customers.",
-      "whyItMatters": "Your email list just got more valuable than your ad spend. This piece tells you exactly why, in plain terms."
-    },
-    {
-      "title": "Small Business Marketing in 2026: Where Customers Come From",
-      "author": "Kimberly Zhang",
-      "source": "Under30CEO",
-      "url": "https://www.under30ceo.com/small-business-marketing-2026-customer-sources/",
-      "category": "Strategy",
-      "summary": "Drawing from LocaliQ's 2026 marketing trends report, this piece surfaces a striking finding: 83 percent of small business owners say referrals are now their top customer source, up from 65 percent just a year ago. The article makes the case for treating word-of-mouth as a real, budgeted system rather than a happy accident, and pairs that with practical guidance on what to track to know if your marketing spend is actually working.",
-      "whyItMatters": "Your best customers are already doing your best marketing. This shows you how to build a system around that instead of leaving it to chance."
-    },
-    {
-      "title": "Digital Marketing News Late-July 2026: What Changed",
-      "author": "Flypost Marketing",
-      "source": "flypostmarketing.com",
-      "url": "https://flypostmarketing.com/digital-marketing-guides/digital-marketing-news-late-july-2026/",
+      "title": "Generative Engine Optimization for Small Business: How to Win With a Small Budget in 2026",
+      "author": "HubSpot Blog",
+      "source": "HubSpot Blog",
+      "url": "https://blog.hubspot.com/marketing/generative-engine-optimization-small-business",
       "category": "Practical",
-      "summary": "A no-panic plain-English briefing on exactly what shifted in digital marketing the week of July 18-25, covering an unconfirmed Google ranking update, new guidance on crawl budgets that now explicitly penalizes slow hosting, and both AI Mode and ChatGPT testing clearer citation links in answers. The piece closes with a five-step checklist of what to actually do this week versus what to ignore.",
-      "whyItMatters": "A slow website just became an official reason Google crawls you less. Worth a five-minute speed test today."
+      "summary": "This piece argues that GEO (also called Answer Engine Optimization) does not require a full marketing overhaul, and that bootstrapped small businesses can compete with big brands for AI search visibility right now. It walks through how to structure content so LLMs cite you as a trusted source, which is where discovery is actually happening in 2026.",
+      "whyItMatters": "Ranking in Google matters less every month. Being cited by an AI answer matters more. This shows you how to get there without an agency."
+    },
+    {
+      "title": "AI Marketing Predictions That Will Shape 2026",
+      "author": "HubSpot Blog",
+      "source": "HubSpot Blog",
+      "url": "https://blog.hubspot.com/marketing/ai-predictions-marketing",
+      "category": "Strategy",
+      "summary": "Drawing on HubSpot's 2026 State of Marketing report, this piece maps out the shift from AI-as-assistant to AI-as-autonomous-campaign-operator. It covers how agentic AI systems are beginning to plan, run, and optimize full marketing campaigns without constant human input, and why brands that do not structure their content for both humans and AI models will lose their voice in search.",
+      "whyItMatters": "Nearly half of marketers are already rebuilding their SEO strategy for AI-powered search. You should know what that means before it hits your traffic numbers."
     },
     {
       "title": "6 Ways To Prepare Your Business For AI In 2026",
@@ -53,8 +44,17 @@
       "source": "Search Engine Journal",
       "url": "https://www.searchenginejournal.com/partner-resources/6-ways-to-prepare-your-business-for-ai-in-2026/",
       "category": "Practical",
-      "summary": "Built on a survey of 600 small-to-midsize businesses, this checklist walks through six specific places to put AI to work where it actually moves revenue, from using AI call summaries and lead scoring to find where your best prospects drop off, to personalizing prospect experience and identifying top-performing channels. Each section is tied to a measurable pipeline outcome, not just a productivity benefit.",
-      "whyItMatters": "62 percent of SMBs say follow-up and conversion are their biggest challenge. This checklist tells you exactly where AI can fix that."
+      "summary": "Built from a survey of 600 small-to-midsize businesses, this checklist targets the six places where AI actually moves the needle on qualified leads: personalizing prospect experience, improving ad targeting, strengthening lead scoring, and tightening follow-up sequences. It focuses on the 62% of businesses that say follow-up and conversion are their biggest challenge, and shows how AI call summaries and lead scoring help fix that.",
+      "whyItMatters": "Most AI advice tells you to create more content. This one tells you how to stop losing the leads you already have."
+    },
+    {
+      "title": "Vibe Marketing News: August 2026",
+      "author": "Mean CEO",
+      "source": "Mean CEO Blog",
+      "url": "https://blog.mean.ceo/vibemarketing-news-august-2026/",
+      "category": "Practical",
+      "summary": "This August 2026 briefing covers a real shift in how small teams are running campaigns: one tight brief, one audience, one offer, and AI doing the heavy lifting across research, ads, landing pages, email, and reporting. The piece is honest that weak prompts produce generic output and that human review is non-negotiable, making it a grounded workflow guide rather than a hype piece.",
+      "whyItMatters": "You can now draft, test, and revise a full campaign from a single brief. This tells you the exact workflow to do it without losing your voice."
     }
   ]
 }
