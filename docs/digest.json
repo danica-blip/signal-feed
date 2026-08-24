@@ -1,15 +1,15 @@
 {
-  "weekOf": "Aug 11 to Aug 17, 2026",
-  "generatedAt": "2026-08-17T10:28:52.060Z",
+  "weekOf": "Aug 18 to Aug 24, 2026",
+  "generatedAt": "2026-08-24T10:34:36.012Z",
   "articles": [
     {
-      "title": "These Marketing Trends Are Helping Small Businesses Get Ahead in 2026",
-      "author": "Neil Patel",
-      "source": "Entrepreneur",
-      "url": "https://www.entrepreneur.com/growing-a-business/marketing-trends-for-small-businesses-to-get-ahead-in-2026/503281",
+      "title": "How Small Businesses Are Really Using AI: 5 Eye-Opening Findings",
+      "author": "Social Media Examiner",
+      "source": "Social Media Examiner",
+      "url": "https://www.socialmediaexaminer.com/how-small-businesses-are-really-using-ai-5-eye-opening-findings/",
       "category": "Strategy",
-      "summary": "Neil Patel argues that marketing in 2026 is no longer a set of channels but a system, where AI handles execution and your job is to design what gets built and why. He makes a pointed case that small businesses should audit roles before tools, because the durable positions are the ones that decide, not the ones that produce.",
-      "whyItMatters": "If you're still hiring or organizing your team the way you did three years ago, this piece will show you exactly where the model breaks down."
+      "summary": "Social Media Examiner's 2026 AI Marketing Industry Report surveyed 681 marketers, 60% of them from businesses with 10 or fewer people. Daily AI use has jumped from 37% to 73% in two years, and the marketers farthest ahead got there by experimenting on their own, not through corporate training budgets.",
+      "whyItMatters": "You're already doing this the right way. This report confirms that figuring it out yourself is exactly how the leaders got ahead."
     },
     {
       "title": "AI Marketing Predictions That Will Shape 2026",
@@ -17,44 +17,44 @@
       "source": "HubSpot Blog",
       "url": "https://blog.hubspot.com/marketing/ai-predictions-marketing",
       "category": "Strategy",
-      "summary": "HubSpot's editorial team maps the biggest forces reshaping marketing this year, from AI agents running full campaigns autonomously to the rise of AI shopping assistants that now influence what customers buy before they ever visit your site. The core shift: SEO alone is not enough, and your content needs to speak to both humans and the AI models deciding what gets cited as the answer.",
-      "whyItMatters": "You need to know which of these predictions are already here, not coming soon, so you can stop planning and start adjusting."
+      "summary": "HubSpot breaks down the marketing shifts you need to plan around now: SEO is giving way to Answer Engine Optimization, AI agents are moving from assistants to autonomous campaign managers, and 24% of AI users are already shopping through AI assistants. Your content needs to speak to both people and the models they ask for recommendations.",
+      "whyItMatters": "If your website isn't structured so an AI can read and cite it, you're invisible to a growing share of your future customers."
     },
     {
-      "title": "Answer Engine Optimization Trends in 2026: How AEO Is Transforming the Landscape",
+      "title": "HubSpot's 2026 Social Media Marketing Report: Data from 1,100+ Global Marketers",
       "author": "HubSpot Blog",
       "source": "HubSpot Blog",
-      "url": "https://blog.hubspot.com/marketing/answer-engine-optimization-trends",
+      "url": "https://blog.hubspot.com/marketing/hubspot-blog-social-media-marketing-report",
       "category": "Strategy",
-      "summary": "This piece breaks down how Answer Engine Optimization is replacing traditional keyword SEO as the primary way customers find businesses through AI tools like ChatGPT, Perplexity, and Google's AI Overviews. It walks through how content structured for direct, extractable answers gets cited more often, and what that means for the pages you already have.",
-      "whyItMatters": "Your best blog post means nothing if AI tools can't pull a clean answer from it. This shows you what to fix and why it matters right now."
+      "summary": "HubSpot's social media report lands a sharp point: businesses built on SEO alone are bleeding traffic to AI tools, while brands people actually recognize and talk about online are showing up inside AI answers. Consistent brand mentions across social, reviews, and forums are now the new backlink.",
+      "whyItMatters": "Getting people to talk about your business online is now an SEO strategy, not just a PR one. Start building that signal this week."
+    },
+    {
+      "title": "These Marketing Trends Are Helping Small Businesses Get Ahead in 2026",
+      "author": "Neil Patel",
+      "source": "Entrepreneur",
+      "url": "https://www.entrepreneur.com/growing-a-business/marketing-trends-for-small-businesses-to-get-ahead-in-2026/503281",
+      "category": "Strategy",
+      "summary": "Neil Patel argues that marketing has shifted from a set of channels to a system of infrastructure, and that small businesses now win by designing better systems rather than running more campaigns. As AI handles execution, the competitive advantage moves to people who can brief clearly, spot patterns, and decide what gets built, not just produce content.",
+      "whyItMatters": "The question to ask yourself this week is not which tool to add, it's which repetitive task to hand off so you can spend your time on decisions only you can make."
+    },
+    {
+      "title": "AI Marketing Playbook for SMBs 2026: Complete Guide",
+      "author": "FastStrat AI",
+      "source": "FastStrat.ai",
+      "url": "https://faststrat.ai/ai-marketing-playbook-smb-2026/",
+      "category": "Practical",
+      "summary": "Written specifically for the founder or solo marketer who wants a clear Monday-morning answer, this playbook lays out a five-step AI marketing roadmap built for small teams, not enterprise data scientists. The core insight is that generic AI output becomes useful output the moment you feed it real brand context, including your ideal customer profile, past winning content, and brand guidelines.",
+      "whyItMatters": "The difference between AI that sounds like everyone else and AI that sounds like you is the context you put in. This guide shows you exactly what to feed it."
     },
     {
       "title": "Marketing Trends Aug 3, 2026: AI Search and Social Shifts",
       "author": "B2The7",
-      "source": "b2the7.com",
+      "source": "B2The7",
       "url": "https://www.b2the7.com/news-blog/marketing-trends-august-2026-ai-search-social",
       "category": "Practical",
-      "summary": "Published this month, this tight brief covers five concrete moves small business owners should make right now, from measuring whether AI engines are actually citing your business to cleaning up thin pages before Google's likely fall core update. It also flags that Instagram is quietly penalizing reposts while TikTok's new AI tool builds full campaigns from a single sentence.",
-      "whyItMatters": "This is the rare piece that tells you what changed this week, not this year, and exactly what to do about it before the next algorithm shift lands."
-    },
-    {
-      "title": "6 Ways To Prepare Your Business For AI In 2026",
-      "author": "Search Engine Journal",
-      "source": "Search Engine Journal",
-      "url": "https://www.searchenginejournal.com/partner-resources/6-ways-to-prepare-your-business-for-ai-in-2026/",
-      "category": "Practical",
-      "summary": "Built from a survey of 600 small-to-midsize businesses, this checklist walks through six specific areas where AI produces real pipeline results, including using AI call summaries to find where high-value leads drop off and how to build campaigns around actual conversion patterns rather than guesswork. It is pointed at lead generation and revenue impact, not general AI adoption.",
-      "whyItMatters": "If you're frustrated that your AI tools haven't moved the needle, this checklist shows you the six spots where they actually should."
-    },
-    {
-      "title": "7 AI Tools That Run a One-Person Business in 2026, No Staff, No Code",
-      "author": "Entrepreneur",
-      "source": "Entrepreneur",
-      "url": "https://www.entrepreneur.com/growing-a-business/7-ai-tools-that-run-a-one-person-business-in-2026-no/501943",
-      "category": "Tools",
-      "summary": "This piece walks through a practical stack for solo operators and small teams, covering live web research for trend spotting, competitor gap analysis without expensive tools, and a system for scraping top posts in your niche to understand what actually resonates with your audience. The focus is on doing real business work, not just generating content faster.",
-      "whyItMatters": "You don't need a marketing team. You need a system. This one you can steal and run this week."
+      "summary": "This timely weekly roundup covers five concrete shifts happening right now: ChatGPT is driving real referral clicks, Google AI Overviews are pushing organic links further down the page, a core algorithm update looks likely this fall, Instagram is penalizing reposts, and TikTok now lets you build whole campaigns from a single prompt. For each shift, it tells you what to do about it.",
+      "whyItMatters": "A Google core update is likely coming before the end of fall. Now is a good time to fix thin pages and tighten your best content before the algorithm makes that decision for you."
     }
   ]
 }
