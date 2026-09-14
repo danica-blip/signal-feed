@@ -1,6 +1,6 @@
 {
-  "weekOf": "Sep 1 to Sep 7, 2026",
-  "generatedAt": "2026-09-07T15:29:39.892Z",
+  "weekOf": "Sep 8 to Sep 14, 2026",
+  "generatedAt": "2026-09-14T16:08:38.083Z",
   "articles": [
     {
       "title": "How Small Businesses Are Really Using AI: 5 Eye-Opening Findings",
@@ -8,17 +8,17 @@
       "source": "Social Media Examiner",
       "url": "https://www.socialmediaexaminer.com/how-small-businesses-are-really-using-ai-5-eye-opening-findings/",
       "category": "Strategy",
-      "summary": "Based on Social Media Examiner's 2026 AI Marketing Industry Report, this piece shares five data-backed findings about how small business marketers are actually using AI right now, not how vendors say they should. Since 60% of survey respondents work in businesses with 10 or fewer people, the data speaks directly to solo operators and small teams.",
-      "whyItMatters": "You're probably learning AI the same way the leaders are, by experimenting on your own, and this data confirms that's the right move."
+      "summary": "Drawing from Social Media Examiner's 2026 AI Marketing Industry Report, which surveyed 681 marketers (60% from businesses with 10 or fewer people), this piece pulls five findings that cut through the noise. Daily AI use among marketers jumped from 37% to 73% in two years, and the marketers furthest ahead got there by experimenting on their own, not through formal training.",
+      "whyItMatters": "If your competitors are figuring this out by trial and error, you can too. The data here shows you exactly where to focus first."
     },
     {
-      "title": "AI Marketing Predictions That Will Shape 2026",
-      "author": "HubSpot Blog",
-      "source": "HubSpot Blog",
-      "url": "https://blog.hubspot.com/marketing/ai-predictions-marketing",
-      "category": "Strategy",
-      "summary": "Drawing from HubSpot's 2026 State of Marketing report and interviews with practitioners, this piece lays out the most consequential AI shifts in marketing, from the rise of autonomous AI agents running full campaigns to the shift from SEO to AEO (Answer Engine Optimization). It frames these not as far-off predictions but as things already happening to your customers and your traffic.",
-      "whyItMatters": "If nearly 30% of marketers are already seeing search traffic drop because of AI-powered answers, your content strategy needs to catch up now, not next quarter."
+      "title": "Marketing Trends September 2026: AI Max, Meta & Gemini",
+      "author": "B2The7",
+      "source": "B2The7",
+      "url": "https://www.b2the7.com/news-blog/marketing-trends-september-2026",
+      "category": "Practical",
+      "summary": "Four platform changes dropped in the first week of September 2026 that most small businesses completely missed: Google auto-migrated certain Search ad campaigns to AI Max, Meta quietly pulled placement exclusion controls, and Google Assistant became Gemini on Android. The piece explains what each change means for your paid ads and local search setup right now.",
+      "whyItMatters": "Your ad campaigns may already be running differently than you set them up. Read this before you check your numbers this week."
     },
     {
       "title": "These Marketing Trends Are Helping Small Businesses Get Ahead in 2026",
@@ -26,35 +26,35 @@
       "source": "Entrepreneur",
       "url": "https://www.entrepreneur.com/growing-a-business/marketing-trends-for-small-businesses-to-get-ahead-in-2026/503281",
       "category": "Strategy",
-      "summary": "Neil Patel argues that the marketing funnel is broken and the channel mindset is outdated. Small businesses that win in 2026 are treating marketing as an operating system, not a campaign calendar, and they are hiring for judgment instead of task execution as AI handles more of the production work.",
-      "whyItMatters": "Read this if you feel like you're doing more marketing but getting less from it. The fix isn't more tools, it's a smarter structure."
+      "summary": "Neil Patel argues that the classic marketing funnel is broken and that small businesses no longer need big marketing teams to compete, they need fewer people with better judgment. The key shift: AI handles execution, so you hire for strategic thinking and the ability to brief clearly, not for task output.",
+      "whyItMatters": "This reframes how you think about your next hire, your next tool, and where you personally need to spend your time."
+    },
+    {
+      "title": "AI Marketing Predictions That Will Shape 2026",
+      "author": "HubSpot Blog",
+      "source": "HubSpot Blog",
+      "url": "https://blog.hubspot.com/marketing/ai-predictions-marketing",
+      "category": "Strategy",
+      "summary": "HubSpot's State of Marketing report finds that 40.6% of marketers are actively reworking their SEO strategy for AI-powered search, and that agentic AI, systems that plan, execute, and optimize full campaigns without constant human input, will be mainstream by year's end. The piece maps out what that means for how customers find and choose businesses like yours.",
+      "whyItMatters": "If your content isn't structured for both AI discovery and human readers right now, you're already losing ground to businesses that are."
     },
     {
       "title": "Marketing Automation Trends: September 2026 (Startup Edition)",
       "author": "blog.mean.ceo",
-      "source": "Mean CEO Blog",
+      "source": "Mean.CEO Blog",
       "url": "https://blog.mean.ceo/marketing-automation-trends-september-2026/",
-      "category": "Strategy",
-      "summary": "Published five days ago, this piece declares that the experimentation phase is over and the pressure is now on execution. It covers the five trends that matter most right now, including hyper-personalization, predictive lead scoring, and privacy-first customer journeys, and explains why small teams with clean first-party data will out-run competitors still running spray-and-pray campaigns.",
-      "whyItMatters": "This was published this week and names the exact shift happening right now: it's no longer about testing AI, it's about making it actually work for your revenue."
+      "category": "Practical",
+      "summary": "Written from a founder's perspective, this piece makes the case that the AI experimentation phase is over and execution is now the job. It covers five trends you can act on this month: hyper-personalization, predictive lead scoring, omnichannel coordination, conversational flows, and privacy-first data collection, with plain guidance on where lean teams should start.",
+      "whyItMatters": "Clean data and behavior-based messaging will beat more tools and more campaigns every time. This tells you how to set that up."
     },
     {
-      "title": "AI Agents for Small Business in 2026: What Actually Works (And What Doesn't)",
-      "author": "Kaizen AI Consulting",
-      "source": "Kaizen AI Consulting",
-      "url": "https://kaizenaiconsulting.com/ai-agents-small-business-2026-what-works/",
+      "title": "AI Max, Gemini, and What Actually Changed in September 2026 for Small Business Marketers",
+      "author": "Buildez Blog",
+      "source": "Buildez Blog",
+      "url": "https://buildez.ai/blog/ai-digital-marketing-september-2026-whats-changing",
       "category": "Practical",
-      "summary": "This practitioner guide cuts through the agentic AI hype and shows specifically which tools (Zapier Central, MindStudio, Gumloop, Relevance AI) are working for small businesses today and how to set up event-triggered workflows that handle lead intake, CRM updates, outreach drafts, and follow-up reminders without manual intervention. It also flags where generic content generation is failing and why brand voice and originality now matter more than volume.",
-      "whyItMatters": "If you've heard about AI agents but don't know where to actually start, this piece gives you named tools, real triggers, and honest guidance on what's not ready yet."
-    },
-    {
-      "title": "The Top 35 AI Marketing Tools",
-      "author": "HubSpot Blog",
-      "source": "HubSpot Blog",
-      "url": "https://blog.hubspot.com/marketing/ai-marketing-tools",
-      "category": "Practical",
-      "summary": "Updated in the past week with fresh data from HubSpot's 2026 State of Marketing Report, this curated guide covers 35 tools organized by marketing function, from content creation and SEO to lead scoring and analytics, with guidance on how to match the right tool to your team size and workflow. It's a practical reference, not a vendor pitch, and it cites real adoption numbers to show where other small marketing teams are putting their time.",
-      "whyItMatters": "Bookmark this as your go-to reference before you buy anything new. The right tool depends on your job-to-be-done, and this helps you sort that out in one sitting."
+      "summary": "Published this week, this piece covers the September 2026 wave of AI marketing platform updates, including Optimizely's new AI creative tools, Adobe's acquisition of Rilo for workflow orchestration, and what these enterprise moves signal for smaller operators. It also looks at how plain-English app-building tools are making AI infrastructure more accessible to businesses without a tech team.",
+      "whyItMatters": "Enterprise AI moves tend to trickle down fast. Knowing what big platforms are building now tells you what you'll be using, or competing against, in six months."
     }
   ]
 }
