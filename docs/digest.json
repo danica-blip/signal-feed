@@ -1,24 +1,33 @@
 {
-  "weekOf": "Sep 8 to Sep 14, 2026",
-  "generatedAt": "2026-09-14T16:08:38.083Z",
+  "weekOf": "Sep 15 to Sep 21, 2026",
+  "generatedAt": "2026-09-21T16:11:41.127Z",
   "articles": [
+    {
+      "title": "Marketing Trends September 2026: AI Max, Meta & Gemini",
+      "author": "B2The7",
+      "source": "B2The7",
+      "url": "https://www.b2the7.com/news-blog/marketing-trends-september-2026",
+      "category": "Strategy",
+      "summary": "Four platform changes hit in the first week of September 2026 and most small business owners missed all of them: Google auto-migrated Search campaigns to AI Max, Meta removed manual ad placement controls, Google Assistant became Gemini on Android, and research showed an 86% drop in ChatGPT citations of Reddit in favor of specific, authored content. The piece walks through each shift in plain language and explains what it actually means for a small business managing paid ads and local visibility right now.",
+      "whyItMatters": "Your ad campaigns may have already changed without you touching anything. Read this before you check your October numbers."
+    },
     {
       "title": "How Small Businesses Are Really Using AI: 5 Eye-Opening Findings",
       "author": "Michael Stelzner",
       "source": "Social Media Examiner",
       "url": "https://www.socialmediaexaminer.com/how-small-businesses-are-really-using-ai-5-eye-opening-findings/",
       "category": "Strategy",
-      "summary": "Drawing from Social Media Examiner's 2026 AI Marketing Industry Report, which surveyed 681 marketers (60% from businesses with 10 or fewer people), this piece pulls five findings that cut through the noise. Daily AI use among marketers jumped from 37% to 73% in two years, and the marketers furthest ahead got there by experimenting on their own, not through formal training.",
-      "whyItMatters": "If your competitors are figuring this out by trial and error, you can too. The data here shows you exactly where to focus first."
+      "summary": "Drawing from Social Media Examiner's 2026 AI Marketing Industry Report (681 marketers surveyed, 60% from businesses with 10 or fewer people), the piece reveals that daily AI use among marketers jumped from 37% to 73% in two years, and that 85% of people ahead of the curve got there by experimenting on their own, not through training programs. The good news for small business owners is that the playing field is genuinely level: no corporate budget required, just a willingness to roll up your sleeves.",
+      "whyItMatters": "The marketers winning with AI look a lot like you. This report shows exactly how they got there."
     },
     {
-      "title": "Marketing Trends September 2026: AI Max, Meta & Gemini",
-      "author": "B2The7",
-      "source": "B2The7",
-      "url": "https://www.b2the7.com/news-blog/marketing-trends-september-2026",
+      "title": "Generative Engine Optimization for Small Business: How to Win with a Small Budget in 2026",
+      "author": "HubSpot Blog",
+      "source": "HubSpot Blog",
+      "url": "https://blog.hubspot.com/marketing/generative-engine-optimization-small-business",
       "category": "Practical",
-      "summary": "Four platform changes dropped in the first week of September 2026 that most small businesses completely missed: Google auto-migrated certain Search ad campaigns to AI Max, Meta quietly pulled placement exclusion controls, and Google Assistant became Gemini on Android. The piece explains what each change means for your paid ads and local search setup right now.",
-      "whyItMatters": "Your ad campaigns may already be running differently than you set them up. Read this before you check your numbers this week."
+      "summary": "The piece makes a clear case that GEO (or AEO, as HubSpot calls it) does not require a full marketing overhaul for small businesses, it requires smarter content structure so that ChatGPT, Perplexity, and Gemini can actually find and cite you. It walks through free and low-cost tools, including HubSpot's free AI Search Grader, and explains how bootstrapped SMBs have beaten larger competitors in AI-generated answers before.",
+      "whyItMatters": "If your customers are asking AI assistants who to hire or buy from, you need to show up in the answer, not just on page one of Google."
     },
     {
       "title": "These Marketing Trends Are Helping Small Businesses Get Ahead in 2026",
@@ -26,35 +35,26 @@
       "source": "Entrepreneur",
       "url": "https://www.entrepreneur.com/growing-a-business/marketing-trends-for-small-businesses-to-get-ahead-in-2026/503281",
       "category": "Strategy",
-      "summary": "Neil Patel argues that the classic marketing funnel is broken and that small businesses no longer need big marketing teams to compete, they need fewer people with better judgment. The key shift: AI handles execution, so you hire for strategic thinking and the ability to brief clearly, not for task output.",
-      "whyItMatters": "This reframes how you think about your next hire, your next tool, and where you personally need to spend your time."
+      "summary": "Neil Patel argues that the classic marketing funnel is broken and that the biggest 2026 shift is structural: AI now runs systems, not just tasks, and small businesses that treat marketing as infrastructure rather than a set of campaigns will outpace those that don't. The piece offers three concrete moves to start with, including auditing which roles in your business still do work AI can already automate.",
+      "whyItMatters": "Stop thinking about AI tools and start thinking about AI systems. This piece shows you the difference."
     },
     {
-      "title": "AI Marketing Predictions That Will Shape 2026",
+      "title": "AI for Small Business Marketing: 6 Jobs, 1 Seat (2026)",
+      "author": "Justin McKelvey",
+      "source": "justinmckelvey.com",
+      "url": "https://justinmckelvey.com/blog/ai-for-small-business-marketing",
+      "category": "Practical",
+      "summary": "A fractional CTO with 15 years of experience and $53M in client revenue breaks down exactly six marketing jobs a small business owner can hand off to one AI assistant this week, plus three jobs it should never touch, all priced out as of September 2026. The piece skips the tool hype and focuses on setup specifics: voice samples, saved instructions, approval rules, and what never goes into the tool.",
+      "whyItMatters": "Six jobs, one seat, $20 to $25 a month. If you only read one how-to piece this week, make it this one."
+    },
+    {
+      "title": "Answer Engine Optimization Case Studies That Prove the ROI of AEO in 2026",
       "author": "HubSpot Blog",
       "source": "HubSpot Blog",
-      "url": "https://blog.hubspot.com/marketing/ai-predictions-marketing",
-      "category": "Strategy",
-      "summary": "HubSpot's State of Marketing report finds that 40.6% of marketers are actively reworking their SEO strategy for AI-powered search, and that agentic AI, systems that plan, execute, and optimize full campaigns without constant human input, will be mainstream by year's end. The piece maps out what that means for how customers find and choose businesses like yours.",
-      "whyItMatters": "If your content isn't structured for both AI discovery and human readers right now, you're already losing ground to businesses that are."
-    },
-    {
-      "title": "Marketing Automation Trends: September 2026 (Startup Edition)",
-      "author": "blog.mean.ceo",
-      "source": "Mean.CEO Blog",
-      "url": "https://blog.mean.ceo/marketing-automation-trends-september-2026/",
+      "url": "https://blog.hubspot.com/marketing/answer-engine-optimization-case-studies",
       "category": "Practical",
-      "summary": "Written from a founder's perspective, this piece makes the case that the AI experimentation phase is over and execution is now the job. It covers five trends you can act on this month: hyper-personalization, predictive lead scoring, omnichannel coordination, conversational flows, and privacy-first data collection, with plain guidance on where lean teams should start.",
-      "whyItMatters": "Clean data and behavior-based messaging will beat more tools and more campaigns every time. This tells you how to set that up."
-    },
-    {
-      "title": "AI Max, Gemini, and What Actually Changed in September 2026 for Small Business Marketers",
-      "author": "Buildez Blog",
-      "source": "Buildez Blog",
-      "url": "https://buildez.ai/blog/ai-digital-marketing-september-2026-whats-changing",
-      "category": "Practical",
-      "summary": "Published this week, this piece covers the September 2026 wave of AI marketing platform updates, including Optimizely's new AI creative tools, Adobe's acquisition of Rilo for workflow orchestration, and what these enterprise moves signal for smaller operators. It also looks at how plain-English app-building tools are making AI infrastructure more accessible to businesses without a tech team.",
-      "whyItMatters": "Enterprise AI moves tend to trickle down fast. Knowing what big platforms are building now tells you what you'll be using, or competing against, in six months."
+      "summary": "Backed by HubSpot's 2026 State of Marketing report (which found that 58% of marketers say AI-referred visitors convert at higher rates than traditional organic traffic), this piece documents real business results from teams that optimized for AI answer engines, tracing the shift in measurement from keyword rankings to citation frequency and AI-assisted conversions. It shows the pattern that keeps repeating: brand visibility in AI answers rises before website traffic does, giving early movers a measurable head start.",
+      "whyItMatters": "Conversion data from AI-referred traffic is the number that should change how you prioritize your content calendar this month."
     }
   ]
 }
