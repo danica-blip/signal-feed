@@ -1,6 +1,6 @@
 {
-  "weekOf": "Sep 22 to Sep 28, 2026",
-  "generatedAt": "2026-09-28T17:57:25.462Z",
+  "weekOf": "Sep 29 to Oct 5, 2026",
+  "generatedAt": "2026-10-05T19:04:39.287Z",
   "articles": [
     {
       "title": "How Small Businesses Are Really Using AI: 5 Eye-Opening Findings",
@@ -8,53 +8,53 @@
       "source": "Social Media Examiner",
       "url": "https://www.socialmediaexaminer.com/how-small-businesses-are-really-using-ai-5-eye-opening-findings/",
       "category": "Strategy",
-      "summary": "Drawing from the 2026 AI Marketing Industry Report, which surveyed 681 marketers (60% from businesses with 10 or fewer people), this piece reveals that daily AI use has jumped from 37% to 73% in two years. The standout finding for small business owners: 85% of the most advanced AI users got there by experimenting on their own, not through corporate training programs.",
-      "whyItMatters": "You're already ahead of the curve if you've been figuring this out on your own. This data confirms your instinct to just try things is the right one."
+      "summary": "Drawing from 680+ surveyed marketers, Social Media Examiner's 2026 AI Marketing Industry Report shows that daily AI use among marketers jumped from 37% to 73% in two years, with 85% of people learning by experimenting on their own. The good news for small business owners: you don't need a training department or a big budget to keep up.",
+      "whyItMatters": "Read this to know exactly where your peers are, what they're spending, and which tools they're actually using, so you stop guessing and start moving."
     },
     {
       "title": "These Marketing Trends Are Helping Small Businesses Get Ahead in 2026",
-      "author": "Neil Patel",
+      "author": "Entrepreneur",
       "source": "Entrepreneur",
       "url": "https://www.entrepreneur.com/growing-a-business/marketing-trends-for-small-businesses-to-get-ahead-in-2026/503281",
       "category": "Strategy",
-      "summary": "Neil Patel argues that the classic marketing funnel is broken and that in 2026, small businesses win not by running more campaigns but by designing better systems, where AI handles execution and humans focus on judgment and decision-making. He makes a practical case for auditing your current roles before adding new tools, since the durable positions are the ones that decide what gets built and why.",
-      "whyItMatters": "Before you buy another tool, read this and audit what you're actually spending time on versus what AI could already handle."
+      "summary": "A co-founder of a major marketing firm lays out how the role of AI in marketing has shifted from assistant to operating system in 2026, with AI now handling research, creative production, testing, and optimization in a single loop. The key framework: let AI own production and iteration, keep pricing, positioning, and brand voice in human hands.",
+      "whyItMatters": "If your team is still manually running workflows AI can handle end-to-end, this piece gives you a clear mental model for what to change first."
     },
     {
-      "title": "Marketing Automation Trends | September 2026 (Startup Edition)",
-      "author": "blog.mean.ceo",
-      "source": "mean.ceo",
-      "url": "https://blog.mean.ceo/marketing-automation-trends-september-2026/",
-      "category": "Strategy",
-      "summary": "Written at the end of September 2026, this piece argues the experimentation phase is over and the pressure is now on execution, specifically for small teams building AI-driven, privacy-safe customer journeys. The author lays out the most effective starting points: lead qualification, abandoned inquiry recovery, and post-signup onboarding, not flashy AI features.",
-      "whyItMatters": "If your AI tools still feel experimental, this is the push to commit. Start with the workflow closest to revenue, not the one that sounds the coolest."
-    },
-    {
-      "title": "Marketing Trends September 2026: AI Max, Meta & Gemini",
-      "author": "b2the7.com",
-      "source": "B2The7",
+      "title": "Marketing Trends September 2026: Google AI Max, Meta & Gemini",
+      "author": "B2the7",
+      "source": "B2the7",
       "url": "https://www.b2the7.com/news-blog/marketing-trends-september-2026",
       "category": "Strategy",
-      "summary": "This plain-language breakdown covers four major platform shifts that happened in the first week of September 2026: Google silently auto-upgraded certain ad campaigns to AI Max, Meta removed placement exclusion controls, Google Assistant became Gemini on Android, and new research confirmed AI tools favor specific attributed content over generic sources. None of these changes was loudly announced, which is exactly why most small businesses missed them.",
-      "whyItMatters": "Your ad campaigns may have already changed without you knowing. Check your Google Ads account this week to see if AI Max touched your settings."
+      "summary": "Four major platform shifts happened in the first week of September that most small businesses missed entirely: Google quietly auto-migrated ad campaigns to AI Max, Meta removed manual placement controls, Google Assistant became Gemini, and ChatGPT citation patterns shifted sharply. This piece translates all four changes into plain language with clear actions.",
+      "whyItMatters": "Your ad campaigns may already be running differently than you think, and this is the fastest way to find out what changed and what to do about it."
     },
     {
-      "title": "AI for Small Business Marketing: 6 Jobs, 1 Seat (2026)",
-      "author": "Justin McKelvey",
-      "source": "justinmckelvey.com",
-      "url": "https://justinmckelvey.com/blog/ai-for-small-business-marketing",
+      "title": "Local AEO Best Practices for Small Businesses in 2026",
+      "author": "Raj Madhvani",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/google-visibility-in-2026-depends-on-aeo/564227/",
       "category": "Practical",
-      "summary": "Instead of recommending a stack of thirty tools, this piece maps out exactly six marketing jobs a solo owner can hand to one AI assistant on a $20 to $25 business-plan seat: replying to reviews, writing the monthly email, turning job photos into social posts, rewriting service pages for AI search, mining customer language from reviews, and following up on quiet quotes. The author is explicit about what stays human: pricing, claims you could be held to, and relationships.",
-      "whyItMatters": "This is the most concrete, owner-level AI marketing playbook published this month. Read it once, pick two jobs off the list, and start this week."
+      "summary": "This Search Engine Journal webinar walks through exactly how AI assistants like Google Gemini and ChatGPT evaluate and recommend local businesses today, covering which signals matter most and where most small businesses are invisibly falling short. It includes an actionable roadmap for building AI-driven local visibility in 2026.",
+      "whyItMatters": "When a customer asks an AI assistant who to call, your business either shows up or it doesn't, and this tells you how to make sure you do."
     },
     {
-      "title": "Marketing AI Month 2026: Free AI Education for Marketers",
+      "title": "SEO Marketing for Small Business: The 2026 Guide to Ranking Without an Agency",
+      "author": "Seijin",
+      "source": "Enrich Labs",
+      "url": "https://www.enrichlabs.ai/blog/seo-marketing-for-small-business-2026-guide",
+      "category": "Practical",
+      "summary": "A thorough, no-fluff guide covering the five highest-ROI SEO moves for small businesses in 2026, with a dedicated section on Generative Engine Optimization (GEO), the practice of structuring content so ChatGPT, Perplexity, and Google AI Overviews cite your business by name. It covers Google Business Profile, keyword research, on-page basics, content cadence, and GEO in one readable package.",
+      "whyItMatters": "You can do most of this yourself this week, and the GEO section alone is worth the read if you want customers finding you in AI search, not just Google."
+    },
+    {
+      "title": "AI Apps Are Becoming More Agentic. Our Series Is Evolving with Them.",
       "author": "Marketing AI Institute",
       "source": "Marketing AI Institute",
-      "url": "https://www.marketingaiinstitute.com/blog/marketing-ai-month-2026",
-      "category": "Practical",
-      "summary": "Throughout September, Marketing AI Institute is giving marketers free access to its full AI for Marketing Course Series (normally $499), a five-course self-paced curriculum covering AI use cases, tool evaluation, and a 30-day action plan for putting AI to work. A live Ask Me Anything session wraps things up on October 1st.",
-      "whyItMatters": "Free access expires September 30. If you've been meaning to get structured on AI, this is the cheapest and most credible way to do it before the month is out."
+      "url": "https://www.marketingaiinstitute.com/",
+      "category": "Strategy",
+      "summary": "Marketing AI Institute signals a meaningful shift in how AI tools are being used: apps are moving beyond responding to single prompts and into executing multi-step tasks on their own, a change the Institute is tracking in real time through an evolving content series. For small businesses, understanding agentic AI now means getting ahead of how your competitors will market in 12 months.",
+      "whyItMatters": "Agentic AI is the next wave, and Marketing AI Institute is one of the most practical voices explaining what it actually means for your marketing workflow."
     }
   ]
 }
