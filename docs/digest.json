@@ -1,15 +1,51 @@
 {
-  "weekOf": "Sep 29 to Oct 5, 2026",
-  "generatedAt": "2026-10-05T19:04:39.287Z",
+  "weekOf": "Oct 6 to Oct 12, 2026",
+  "generatedAt": "2026-10-12T19:36:46.996Z",
   "articles": [
+    {
+      "title": "5 Marketing Trends: Week of October 12, 2026",
+      "author": "Bernie Fussenegger",
+      "source": "B2The7",
+      "url": "https://www.b2the7.com/news-blog/marketing-trends-october-12-2026",
+      "category": "Strategy",
+      "summary": "Published this week, this rundown covers five concrete shifts hitting small business marketing right now: AI Overviews appearing on brand-name searches, Google's new manual warning for AI-generated content, AI shopping answers favoring big retailers, ChatGPT Ads expanding into visual formats, and Performance Max A/B testing. Each trend comes with plain-language context on what it means for a small or local business trying to stay visible.",
+      "whyItMatters": "These aren't predictions, they're already live. Read it before your next marketing decision this week."
+    },
+    {
+      "title": "ChatGPT News October 2026: What It Means for Marketing",
+      "author": "Bernie Fussenegger",
+      "source": "B2The7",
+      "url": "https://www.b2the7.com/news-blog/chatgpt-news-october-2026-small-business-marketing",
+      "category": "Strategy",
+      "summary": "ChatGPT quietly added shopping tools with virtual try-on, expanded its ad platform with bulk product feed support, and announced agents that live inside Slack and Teams. The piece argues that ChatGPT is becoming a full shopping and work surface, not just a chat window, and walks through what each move means for a small business owner today.",
+      "whyItMatters": "Your customers may already be discovering (or skipping) your business inside ChatGPT. This tells you what to watch."
+    },
+    {
+      "title": "AI news this week for small business, 11 October 2026",
+      "author": "Lilach Bullock",
+      "source": "LilachBullock.com",
+      "url": "https://www.lilachbullock.com/ai-news-this-week-for-small-business-11-october-2026/",
+      "category": "Practical",
+      "summary": "This weekly digest, covering September 28 through October 11, rounds up 13 AI tool updates with a clear eye on small business use: ChatGPT audio uploads that turn a recorded call into a usable follow-up, iPhone Scan for collapsing notes into one PDF, Google Skills that save repeated Gemini instructions, and Claude Haiku 5.5 cutting API costs for repetitive tasks. Each item is filtered for relevance to owners running lean, not engineers building systems.",
+      "whyItMatters": "Thirteen updates in two weeks means the tools you used last month already have new tricks. Spend ten minutes here to find the one that saves you an hour."
+    },
     {
       "title": "How Small Businesses Are Really Using AI: 5 Eye-Opening Findings",
       "author": "Michael Stelzner",
       "source": "Social Media Examiner",
       "url": "https://www.socialmediaexaminer.com/how-small-businesses-are-really-using-ai-5-eye-opening-findings/",
       "category": "Strategy",
-      "summary": "Drawing from 680+ surveyed marketers, Social Media Examiner's 2026 AI Marketing Industry Report shows that daily AI use among marketers jumped from 37% to 73% in two years, with 85% of people learning by experimenting on their own. The good news for small business owners: you don't need a training department or a big budget to keep up.",
-      "whyItMatters": "Read this to know exactly where your peers are, what they're spending, and which tools they're actually using, so you stop guessing and start moving."
+      "summary": "Drawing from the 2026 AI Marketing Industry Report, which surveyed over 680 small business marketers, the piece surfaces five findings worth sitting with: nearly three in four marketers now use AI daily, 85 percent learned it by experimenting on their own, and 86 percent say it saves time even though almost no one can prove the ROI yet. AI agents are flagged as the next big shift for small teams.",
+      "whyItMatters": "You don't need a training budget or a tech team. Most of the people winning with AI right now figured it out the same way you will."
+    },
+    {
+      "title": "AI Marketing Automation for Small Business: 2026 Guide",
+      "author": "Layer3 Labs",
+      "source": "Layer3 Labs",
+      "url": "https://www.layer3labs.io/guides/ai-marketing-automation-for-small-business",
+      "category": "Practical",
+      "summary": "This guide draws a clear line between AI and automation, then shows exactly where to combine them for marketing that connects to revenue. It includes five ready-to-copy n8n workflow templates, from missed-lead instant reply to review-request sequencing, each built around a trigger, an AI step, and a CRM action so the workflow ends with something done, not just a notification sent.",
+      "whyItMatters": "Pick one of these five templates, swap in your own tools and copy, and you have a working automation by end of week."
     },
     {
       "title": "These Marketing Trends Are Helping Small Businesses Get Ahead in 2026",
@@ -17,44 +53,8 @@
       "source": "Entrepreneur",
       "url": "https://www.entrepreneur.com/growing-a-business/marketing-trends-for-small-businesses-to-get-ahead-in-2026/503281",
       "category": "Strategy",
-      "summary": "A co-founder of a major marketing firm lays out how the role of AI in marketing has shifted from assistant to operating system in 2026, with AI now handling research, creative production, testing, and optimization in a single loop. The key framework: let AI own production and iteration, keep pricing, positioning, and brand voice in human hands.",
-      "whyItMatters": "If your team is still manually running workflows AI can handle end-to-end, this piece gives you a clear mental model for what to change first."
-    },
-    {
-      "title": "Marketing Trends September 2026: Google AI Max, Meta & Gemini",
-      "author": "B2the7",
-      "source": "B2the7",
-      "url": "https://www.b2the7.com/news-blog/marketing-trends-september-2026",
-      "category": "Strategy",
-      "summary": "Four major platform shifts happened in the first week of September that most small businesses missed entirely: Google quietly auto-migrated ad campaigns to AI Max, Meta removed manual placement controls, Google Assistant became Gemini, and ChatGPT citation patterns shifted sharply. This piece translates all four changes into plain language with clear actions.",
-      "whyItMatters": "Your ad campaigns may already be running differently than you think, and this is the fastest way to find out what changed and what to do about it."
-    },
-    {
-      "title": "Local AEO Best Practices for Small Businesses in 2026",
-      "author": "Raj Madhvani",
-      "source": "Search Engine Journal",
-      "url": "https://www.searchenginejournal.com/google-visibility-in-2026-depends-on-aeo/564227/",
-      "category": "Practical",
-      "summary": "This Search Engine Journal webinar walks through exactly how AI assistants like Google Gemini and ChatGPT evaluate and recommend local businesses today, covering which signals matter most and where most small businesses are invisibly falling short. It includes an actionable roadmap for building AI-driven local visibility in 2026.",
-      "whyItMatters": "When a customer asks an AI assistant who to call, your business either shows up or it doesn't, and this tells you how to make sure you do."
-    },
-    {
-      "title": "SEO Marketing for Small Business: The 2026 Guide to Ranking Without an Agency",
-      "author": "Seijin",
-      "source": "Enrich Labs",
-      "url": "https://www.enrichlabs.ai/blog/seo-marketing-for-small-business-2026-guide",
-      "category": "Practical",
-      "summary": "A thorough, no-fluff guide covering the five highest-ROI SEO moves for small businesses in 2026, with a dedicated section on Generative Engine Optimization (GEO), the practice of structuring content so ChatGPT, Perplexity, and Google AI Overviews cite your business by name. It covers Google Business Profile, keyword research, on-page basics, content cadence, and GEO in one readable package.",
-      "whyItMatters": "You can do most of this yourself this week, and the GEO section alone is worth the read if you want customers finding you in AI search, not just Google."
-    },
-    {
-      "title": "AI Apps Are Becoming More Agentic. Our Series Is Evolving with Them.",
-      "author": "Marketing AI Institute",
-      "source": "Marketing AI Institute",
-      "url": "https://www.marketingaiinstitute.com/",
-      "category": "Strategy",
-      "summary": "Marketing AI Institute signals a meaningful shift in how AI tools are being used: apps are moving beyond responding to single prompts and into executing multi-step tasks on their own, a change the Institute is tracking in real time through an evolving content series. For small businesses, understanding agentic AI now means getting ahead of how your competitors will market in 12 months.",
-      "whyItMatters": "Agentic AI is the next wave, and Marketing AI Institute is one of the most practical voices explaining what it actually means for your marketing workflow."
+      "summary": "The piece makes a clean argument: small businesses that still treat AI as a faster intern are already behind, because the real shift is using AI as an operating system that handles research, creative production, testing, and optimization in a single loop. It also covers how the classic funnel is breaking down in favor of adaptive systems and why AI search discovery now runs on trust and citation, not just keyword ranking.",
+      "whyItMatters": "The framework here is simple: let AI run production and iteration, keep positioning and brand voice human. That's the dividing line between busy and ahead."
     }
   ]
 }
