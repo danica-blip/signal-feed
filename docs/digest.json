@@ -1,51 +1,15 @@
 {
-  "weekOf": "Oct 6 to Oct 12, 2026",
-  "generatedAt": "2026-10-12T19:36:46.996Z",
+  "weekOf": "Oct 13 to Oct 19, 2026",
+  "generatedAt": "2026-10-19T16:47:02.411Z",
   "articles": [
     {
-      "title": "5 Marketing Trends: Week of October 12, 2026",
-      "author": "Bernie Fussenegger",
-      "source": "B2The7",
-      "url": "https://www.b2the7.com/news-blog/marketing-trends-october-12-2026",
+      "title": "What Actually Happened When Our Blog Went AI-First: A Manager's Account",
+      "author": "HubSpot Blog",
+      "source": "HubSpot Blog",
+      "url": "https://blog.hubspot.com/marketing/how-ai-changed-our-editorial-process",
       "category": "Strategy",
-      "summary": "Published this week, this rundown covers five concrete shifts hitting small business marketing right now: AI Overviews appearing on brand-name searches, Google's new manual warning for AI-generated content, AI shopping answers favoring big retailers, ChatGPT Ads expanding into visual formats, and Performance Max A/B testing. Each trend comes with plain-language context on what it means for a small or local business trying to stay visible.",
-      "whyItMatters": "These aren't predictions, they're already live. Read it before your next marketing decision this week."
-    },
-    {
-      "title": "ChatGPT News October 2026: What It Means for Marketing",
-      "author": "Bernie Fussenegger",
-      "source": "B2The7",
-      "url": "https://www.b2the7.com/news-blog/chatgpt-news-october-2026-small-business-marketing",
-      "category": "Strategy",
-      "summary": "ChatGPT quietly added shopping tools with virtual try-on, expanded its ad platform with bulk product feed support, and announced agents that live inside Slack and Teams. The piece argues that ChatGPT is becoming a full shopping and work surface, not just a chat window, and walks through what each move means for a small business owner today.",
-      "whyItMatters": "Your customers may already be discovering (or skipping) your business inside ChatGPT. This tells you what to watch."
-    },
-    {
-      "title": "AI news this week for small business, 11 October 2026",
-      "author": "Lilach Bullock",
-      "source": "LilachBullock.com",
-      "url": "https://www.lilachbullock.com/ai-news-this-week-for-small-business-11-october-2026/",
-      "category": "Practical",
-      "summary": "This weekly digest, covering September 28 through October 11, rounds up 13 AI tool updates with a clear eye on small business use: ChatGPT audio uploads that turn a recorded call into a usable follow-up, iPhone Scan for collapsing notes into one PDF, Google Skills that save repeated Gemini instructions, and Claude Haiku 5.5 cutting API costs for repetitive tasks. Each item is filtered for relevance to owners running lean, not engineers building systems.",
-      "whyItMatters": "Thirteen updates in two weeks means the tools you used last month already have new tricks. Spend ten minutes here to find the one that saves you an hour."
-    },
-    {
-      "title": "How Small Businesses Are Really Using AI: 5 Eye-Opening Findings",
-      "author": "Michael Stelzner",
-      "source": "Social Media Examiner",
-      "url": "https://www.socialmediaexaminer.com/how-small-businesses-are-really-using-ai-5-eye-opening-findings/",
-      "category": "Strategy",
-      "summary": "Drawing from the 2026 AI Marketing Industry Report, which surveyed over 680 small business marketers, the piece surfaces five findings worth sitting with: nearly three in four marketers now use AI daily, 85 percent learned it by experimenting on their own, and 86 percent say it saves time even though almost no one can prove the ROI yet. AI agents are flagged as the next big shift for small teams.",
-      "whyItMatters": "You don't need a training budget or a tech team. Most of the people winning with AI right now figured it out the same way you will."
-    },
-    {
-      "title": "AI Marketing Automation for Small Business: 2026 Guide",
-      "author": "Layer3 Labs",
-      "source": "Layer3 Labs",
-      "url": "https://www.layer3labs.io/guides/ai-marketing-automation-for-small-business",
-      "category": "Practical",
-      "summary": "This guide draws a clear line between AI and automation, then shows exactly where to combine them for marketing that connects to revenue. It includes five ready-to-copy n8n workflow templates, from missed-lead instant reply to review-request sequencing, each built around a trigger, an AI step, and a CRM action so the workflow ends with something done, not just a notification sent.",
-      "whyItMatters": "Pick one of these five templates, swap in your own tools and copy, and you have a working automation by end of week."
+      "summary": "HubSpot's editorial team shares what really happens when you run a blog at AI scale, and why easy content is not the same as good content. The core argument is that quality guardrails have to come before AI, not after, and that treating a how-to guide and original research the same way produces content nobody reads.",
+      "whyItMatters": "If you're churning out AI drafts and wondering why they aren't converting, this piece names exactly what's missing."
     },
     {
       "title": "These Marketing Trends Are Helping Small Businesses Get Ahead in 2026",
@@ -53,8 +17,44 @@
       "source": "Entrepreneur",
       "url": "https://www.entrepreneur.com/growing-a-business/marketing-trends-for-small-businesses-to-get-ahead-in-2026/503281",
       "category": "Strategy",
-      "summary": "The piece makes a clean argument: small businesses that still treat AI as a faster intern are already behind, because the real shift is using AI as an operating system that handles research, creative production, testing, and optimization in a single loop. It also covers how the classic funnel is breaking down in favor of adaptive systems and why AI search discovery now runs on trust and citation, not just keyword ranking.",
-      "whyItMatters": "The framework here is simple: let AI run production and iteration, keep positioning and brand voice human. That's the dividing line between busy and ahead."
+      "summary": "The piece argues that small businesses winning in 2026 treat AI as an operating system, not a faster intern. It walks through three concrete shifts: letting AI run production and optimization while humans own positioning, moving from static funnels to adaptive systems that adjust in real time, and building brand visibility across AI discovery channels rather than chasing keywords alone.",
+      "whyItMatters": "Smaller teams actually move faster than big ones right now, and this piece shows you exactly where to point that speed."
+    },
+    {
+      "title": "5 Marketing Trends: Week of October 19, 2026",
+      "author": "B2The7",
+      "source": "B2The7",
+      "url": "https://www.b2the7.com/news-blog/marketing-trends-october-19-2026",
+      "category": "Strategy",
+      "summary": "A tight weekly brief covering five things that changed in AI search and paid media this week, including Gemini 4 Argon rolling into Google AI Mode, Bing's new Topics Portfolio that shows where AI cites your business, the AI Max report inside Google Ads, and a 100,000-keyword study on how often social media shows up in AI answers. Each trend comes with a plain-language take on what a small business should actually do about it.",
+      "whyItMatters": "Search changed again this week. Read this before Friday so you know what to check."
+    },
+    {
+      "title": "How Small Businesses Are Really Using AI: 5 Eye-Opening Findings",
+      "author": "Michael Stelzner",
+      "source": "Social Media Examiner",
+      "url": "https://www.socialmediaexaminer.com/how-small-businesses-are-really-using-ai-5-eye-opening-findings/",
+      "category": "Strategy",
+      "summary": "Drawn from a survey of 680-plus small business marketers, this piece surfaces five findings from the 2026 AI Marketing Industry Report that actually matter for solo operators and small teams. The headline shift: 90% of marketers now use AI at least weekly, 85% learned by experimenting on their own, and the platforms that experienced marketers trust most have changed significantly.",
+      "whyItMatters": "You don't need a budget or a training department to keep up. The data proves it."
+    },
+    {
+      "title": "Claude for Small Business + HubSpot: New Growth Workflows",
+      "author": "HubSpot / Releasebot",
+      "source": "HubSpot (via Releasebot)",
+      "url": "https://releasebot.io/updates/hubspot",
+      "category": "Tools",
+      "summary": "HubSpot's new Claude for Small Business connector lets a solo owner respond to inbound leads, update the CRM, and track campaign results from inside Claude, all in their own voice, with an approval step before anything goes out. A related webinar on October 20 covers what the integration actually does in practice.",
+      "whyItMatters": "If you run your own growth operation, this is the closest thing yet to a second set of hands that works while you're busy."
+    },
+    {
+      "title": "AI for Small Business Marketing: What Works in 2026",
+      "author": "Builts.ai",
+      "source": "Builts.ai",
+      "url": "https://builts.ai/blog/ai-for-small-business-marketing-2026/",
+      "category": "Practical",
+      "summary": "This piece identifies the five AI marketing workflows that actually save time for small teams, including content drafts, image creation, email personalization, ad copy variants, and analytics summaries, and estimates 12 to 18 hours of recovered time per week when the workflows are run correctly. It also cites benchmark data showing that edited AI output drives 3.4 times better engagement than raw published drafts, making the human review step non-negotiable.",
+      "whyItMatters": "Pick one of these five workflows, run it this week, and you'll feel the difference before the weekend."
     }
   ]
 }
