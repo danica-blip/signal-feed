@@ -1,15 +1,15 @@
 {
-  "weekOf": "Oct 27 to Nov 2, 2026",
-  "generatedAt": "2026-11-02T19:58:01.451Z",
+  "weekOf": "Nov 3 to Nov 9, 2026",
+  "generatedAt": "2026-11-09T20:23:36.757Z",
   "articles": [
     {
-      "title": "AI for small businesses: 27 essential tools for real business growth",
-      "author": "HubSpot Staff",
-      "source": "HubSpot Blog",
-      "url": "https://blog.hubspot.com/sales/small-business-ai-tools",
-      "category": "Tools",
-      "summary": "HubSpot maps out 27 AI tools that small teams are actually using, organized by marketing function, with real context on what each one does and how it fits a broader plan. The piece is grounded in fresh data: 66% of small businesses now use AI, and a third of marketing teams say it saves them 10 to 14 hours a week.",
-      "whyItMatters": "If you're still running on guesswork about which tools belong in your stack, this is the shortlist that gets you to a decision this week."
+      "title": "These Marketing Trends Are Helping Small Businesses Get Ahead in 2026",
+      "author": "Entrepreneur Staff",
+      "source": "Entrepreneur",
+      "url": "https://www.entrepreneur.com/growing-a-business/marketing-trends-for-small-businesses-to-get-ahead-in-2026/503281",
+      "category": "Strategy",
+      "summary": "The piece argues that the businesses winning right now have stopped treating AI as a content shortcut and started running it as an operating system: AI handles research, production, testing, and optimization in one continuous loop. It also makes the case that the classic marketing funnel is broken, because discovery now happens across AI assistants, social feeds, and podcasts, and AI surfaces the brands it already trusts.",
+      "whyItMatters": "If you're still using AI to draft one blog post at a time, you're behind the owners who've let it run whole campaigns while they focused on strategy."
     },
     {
       "title": "How Small Businesses Are Really Using AI: 5 Eye-Opening Findings",
@@ -17,44 +17,44 @@
       "source": "Social Media Examiner",
       "url": "https://www.socialmediaexaminer.com/how-small-businesses-are-really-using-ai-5-eye-opening-findings/",
       "category": "Strategy",
-      "summary": "Pulled from a 680-plus marketer survey, this piece surfaces what small business owners are doing with AI right now, where the real gaps are (AI video is barely touched, AI agents are next up), and how adoption patterns differ by experience level. It's one of the few pieces built on data from people running businesses your size, not enterprise teams.",
-      "whyItMatters": "Knowing where your peers actually are with AI, not where the hype says they are, helps you decide what's worth learning next."
+      "summary": "Drawing from Social Media Examiner's 2026 AI Marketing Industry Report of 680-plus small business marketers, this piece reveals that nearly every marketer uses AI for written content, but AI video remains a wide-open gap that few are exploiting yet. It also flags that AI agents, tools that complete multi-step tasks without hand-holding, are arriving fast and will reshape small marketing teams first.",
+      "whyItMatters": "Your competitors are all writing with AI. The ones pulling ahead are the ones making video and delegating full workflows to agents."
     },
     {
-      "title": "These Marketing Trends Are Helping Small Businesses Get Ahead in 2026",
-      "author": "Entrepreneur Staff",
-      "source": "Entrepreneur",
-      "url": "https://www.entrepreneur.com/growing-a-business/marketing-trends-for-small-businesses-to-get-ahead-in-2026/503281",
-      "category": "Strategy",
-      "summary": "This piece makes a clear case that the businesses winning in 2026 have stopped treating AI like a faster intern and started treating it like an operating system, with AI running research, creative production, and optimization in one loop. It also argues that the classic marketing funnel has broken, with discovery now happening across AI assistants, social feeds, and marketplaces all at once.",
-      "whyItMatters": "The framework here is simple and honest: decide where AI gets autonomy and where you set the guardrails, then let it handle the production."
-    },
-    {
-      "title": "AI Update, October 30, 2026: AI News and Views From the Past Week",
-      "author": "MarketingProfs Staff",
-      "source": "MarketingProfs",
-      "url": "https://www.marketingprofs.com/opinions/2026/56256/ai-update-october-30-2026-ai-news-and-views-from-the-past-week",
-      "category": "Strategy",
-      "summary": "Fresh from this week, this roundup covers a Goldman Sachs survey of 2,474 small business owners showing 86% are using AI at work, mostly for writing and productivity, while 73% spend $100 or less a month on it. It also tracks Sprinklr's new coordinated AI agents for campaign workflows, giving you a useful read on where enterprise tools are heading and what will trickle down to SMBs soon.",
-      "whyItMatters": "You don't need a big budget to stay current, and this piece confirms most small business owners aren't spending one, either."
-    },
-    {
-      "title": "AI for Small Business Marketing: What Works in 2026",
-      "author": "Builts.ai Editorial",
-      "source": "Builts.ai",
-      "url": "https://builts.ai/blog/ai-for-small-business-marketing-2026/",
-      "category": "Practical",
-      "summary": "This guide pinpoints the five AI marketing workflows saving small teams the most time, content drafts, image creation, email personalization, ad copy variants, and analytics summaries, with a realistic 4 to 6 week rollout plan so you're not trying to overhaul everything at once. It also prices out a working AI marketing stack, and names the specific tools with the best return on time for lean teams.",
-      "whyItMatters": "If you want to add AI to your marketing without abandoning what's already working, this is the sensible, phased path to do it."
-    },
-    {
-      "title": "AI maturity in marketing: What the research reveals",
-      "author": "HubSpot Staff",
+      "title": "AI for Small Businesses: 27 Essential Tools for Real Business Growth",
+      "author": "HubSpot Blog",
       "source": "HubSpot Blog",
-      "url": "https://blog.hubspot.com/marketing",
+      "url": "https://blog.hubspot.com/sales/small-business-ai-tools",
+      "category": "Tools",
+      "summary": "HubSpot's updated guide covers 27 AI tools mapped to real small business functions, from content and CRM to scheduling and customer support, anchored in fresh data showing that two-thirds of small businesses now use AI and that the median monthly AI spend is just $250. The guide helps owners build a stack that fits a lean budget and an even leaner team.",
+      "whyItMatters": "You don't need an enterprise budget to build a real AI stack, and this is the clearest side-by-side comparison to help you pick where to start."
+    },
+    {
+      "title": "Agentic Marketing Workflows: 9 Examples with Results (2026)",
+      "author": "Supermetrics",
+      "source": "Supermetrics Blog",
+      "url": "https://supermetrics.com/blog/agentic-marketing-workflows",
+      "category": "Practical",
+      "summary": "This guide walks through nine specific agentic marketing workflows, covering content creation, email campaigns, lead management, SEO, GEO, and campaign optimization, with the actual tools to run each one. The key distinction it draws is that agentic AI doesn't just complete a task, it triggers the next step, moving a lead or a piece of content through the funnel without someone clicking between five apps.",
+      "whyItMatters": "Pick one workflow from this list, set it up this week, and you'll free up hours you're currently spending on tasks AI can finish without you."
+    },
+    {
+      "title": "Google I/O 2026, Google Marketing Live 2026, and the Future of Marketing",
+      "author": "Neil Patel",
+      "source": "Neil Patel Blog",
+      "url": "https://neilpatel.com/blog/google-io-2026/",
       "category": "Strategy",
-      "summary": "Published November 2, 2026, this research-driven piece looks at where marketing teams actually sit on the AI maturity curve and what separates teams seeing real ROI from teams that have adopted tools without traction. The data shows 42% of marketers have reached advanced AI use, while most small businesses are still in early stages, meaning the gap to close is real but closeable.",
-      "whyItMatters": "Knowing your maturity level tells you exactly which next move will actually move the needle, not just add another subscription."
+      "summary": "Neil Patel's breakdown of Google's 2026 announcements makes one argument clearly: AI is no longer a feature inside search, it is the layer through which people find information, compare options, and take action. For small businesses, the practical upshot is that brand authority now functions as distribution, because AI surfaces the brands it recognizes as credible and trustworthy across search, shopping, and Gemini.",
+      "whyItMatters": "Ranking on page one matters less than being the business AI decides to recommend. This piece explains exactly why, and what to do about it."
+    },
+    {
+      "title": "Generative Engine Optimization News, November 2026 (Startup Edition)",
+      "author": "Mean CEO",
+      "source": "Mean CEO Blog",
+      "url": "https://blog.mean.ceo/generative-engine-optimization-news-november-2026/",
+      "category": "Practical",
+      "summary": "Published this week, this piece explains what GEO actually is in plain terms and walks small businesses through a step-by-step approach to showing up inside AI-generated answers on ChatGPT, Gemini, Perplexity, and Claude. The core insight is that small businesses have a real edge in long, specific prompts tied to location, niche, and industry, exactly the territory where local owners already know more than any algorithm.",
+      "whyItMatters": "Your next customer might ask ChatGPT who to hire before they ever open Google. This tells you exactly how to be the answer they get."
     }
   ]
 }
