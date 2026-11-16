@@ -1,60 +1,60 @@
 {
-  "weekOf": "Nov 3 to Nov 9, 2026",
-  "generatedAt": "2026-11-09T20:23:36.757Z",
+  "weekOf": "Nov 10 to Nov 16, 2026",
+  "generatedAt": "2026-11-16T19:59:36.520Z",
   "articles": [
     {
+      "title": "AI News This Week for Small Business | 15 November 2026",
+      "author": "Lilach Bullock",
+      "source": "lilachbullock.com",
+      "url": "https://www.lilachbullock.com/ai-news-this-week-for-small-business-15-november-2026/",
+      "category": "Practical",
+      "summary": "Published the day before this brief, this weekly roundup covers 22 AI updates ranked by how useful they are to small business owners right now, including the new ChatGPT Business Hub beta (where you can manage what AI surfaces about your business to buyers) and Gemini's new reusable Workspace skills. Bullock filters everything through one question: does this change what you should do in the next seven days.",
+      "whyItMatters": "ChatGPT Business Hub just opened in beta. If you sell anything online, claim your listing this week before your competitors do."
+    },
+    {
+      "title": "Marketing Trends Nov 16, 2026: AI Mode Ads, Black Friday",
+      "author": "b2the7.com",
+      "source": "b2the7.com",
+      "url": "https://www.b2the7.com/news-blog/marketing-trends-november-16-2026",
+      "category": "Strategy",
+      "summary": "This week's five-trend digest covers exactly what small business owners need to act on right now, including Google's new ads in AI Mode follow-up responses, Facebook AI pages appearing in Google results, and the AI content quality line that separates businesses that show up in AI search from those that don't. Black Friday is 11 days out, and the piece gives a clear-eyed read on what small businesses can and can't win.",
+      "whyItMatters": "Google is putting ads inside AI Mode follow-ups this week. That changes where your budget belongs, and this piece tells you what to do about it before the holiday push."
+    },
+    {
       "title": "These Marketing Trends Are Helping Small Businesses Get Ahead in 2026",
-      "author": "Entrepreneur Staff",
+      "author": "Entrepreneur",
       "source": "Entrepreneur",
       "url": "https://www.entrepreneur.com/growing-a-business/marketing-trends-for-small-businesses-to-get-ahead-in-2026/503281",
       "category": "Strategy",
-      "summary": "The piece argues that the businesses winning right now have stopped treating AI as a content shortcut and started running it as an operating system: AI handles research, production, testing, and optimization in one continuous loop. It also makes the case that the classic marketing funnel is broken, because discovery now happens across AI assistants, social feeds, and podcasts, and AI surfaces the brands it already trusts.",
-      "whyItMatters": "If you're still using AI to draft one blog post at a time, you're behind the owners who've let it run whole campaigns while they focused on strategy."
+      "summary": "Entrepreneur lays out the structural shift happening right now: the businesses winning in 2026 have stopped treating AI as a tool that assists marketing and started using it as the system that runs production, testing, and optimization, while humans focus on strategy and decisions. The piece also makes the case that the classic funnel is broken, discovery now happens across AI assistants and social feeds, so your visibility depends on whether AI systems trust and recognize your brand.",
+      "whyItMatters": "If AI assistants are the new front door to buying decisions, your brand needs to be legible to them, and this piece shows you exactly where to start."
     },
     {
-      "title": "How Small Businesses Are Really Using AI: 5 Eye-Opening Findings",
-      "author": "Michael Stelzner",
-      "source": "Social Media Examiner",
-      "url": "https://www.socialmediaexaminer.com/how-small-businesses-are-really-using-ai-5-eye-opening-findings/",
-      "category": "Strategy",
-      "summary": "Drawing from Social Media Examiner's 2026 AI Marketing Industry Report of 680-plus small business marketers, this piece reveals that nearly every marketer uses AI for written content, but AI video remains a wide-open gap that few are exploiting yet. It also flags that AI agents, tools that complete multi-step tasks without hand-holding, are arriving fast and will reshape small marketing teams first.",
-      "whyItMatters": "Your competitors are all writing with AI. The ones pulling ahead are the ones making video and delegating full workflows to agents."
+      "title": "Constant Contact Launches AI Marketing Product for Small Businesses",
+      "author": "CPA Practice Advisor",
+      "source": "cpapracticeadvisor.com",
+      "url": "https://www.cpapracticeadvisor.com/2026/11/12/constant-contact-launches-ai-marketing-product-for-small-businesses/193776/",
+      "category": "Tools",
+      "summary": "Constant Contact just shipped Catalyst, an agentic AI product designed specifically for small business owners who don't have a marketing team. It analyzes your digital presence, finds growth gaps, builds personalized campaigns, and executes across email, social, and SMS, all with your sign-off before anything goes live. This is the clearest real-world example yet of AI moving from content helper to full campaign operator for a solo owner.",
+      "whyItMatters": "This is what agentic AI for small business actually looks like in practice, not a demo, a product you can join in early access right now."
     },
     {
       "title": "AI for Small Businesses: 27 Essential Tools for Real Business Growth",
       "author": "HubSpot Blog",
       "source": "HubSpot Blog",
       "url": "https://blog.hubspot.com/sales/small-business-ai-tools",
-      "category": "Tools",
-      "summary": "HubSpot's updated guide covers 27 AI tools mapped to real small business functions, from content and CRM to scheduling and customer support, anchored in fresh data showing that two-thirds of small businesses now use AI and that the median monthly AI spend is just $250. The guide helps owners build a stack that fits a lean budget and an even leaner team.",
-      "whyItMatters": "You don't need an enterprise budget to build a real AI stack, and this is the clearest side-by-side comparison to help you pick where to start."
-    },
-    {
-      "title": "Agentic Marketing Workflows: 9 Examples with Results (2026)",
-      "author": "Supermetrics",
-      "source": "Supermetrics Blog",
-      "url": "https://supermetrics.com/blog/agentic-marketing-workflows",
       "category": "Practical",
-      "summary": "This guide walks through nine specific agentic marketing workflows, covering content creation, email campaigns, lead management, SEO, GEO, and campaign optimization, with the actual tools to run each one. The key distinction it draws is that agentic AI doesn't just complete a task, it triggers the next step, moving a lead or a piece of content through the funnel without someone clicking between five apps.",
-      "whyItMatters": "Pick one workflow from this list, set it up this week, and you'll free up hours you're currently spending on tasks AI can finish without you."
+      "summary": "HubSpot's current guide covers 27 AI tools mapped to real small business jobs, from content and CRM to scheduling and customer support, anchored in fresh data showing 66% of small businesses now use AI and roughly a third of marketing teams save 10 to 14 hours a week. The comparison format makes it easy to match a tool to a gap in your stack without getting lost in feature lists.",
+      "whyItMatters": "The data here is from 2026, the tool comparisons are current, and the format is built for owners who need to pick something and move, not read a whitepaper."
     },
     {
-      "title": "Google I/O 2026, Google Marketing Live 2026, and the Future of Marketing",
-      "author": "Neil Patel",
-      "source": "Neil Patel Blog",
-      "url": "https://neilpatel.com/blog/google-io-2026/",
-      "category": "Strategy",
-      "summary": "Neil Patel's breakdown of Google's 2026 announcements makes one argument clearly: AI is no longer a feature inside search, it is the layer through which people find information, compare options, and take action. For small businesses, the practical upshot is that brand authority now functions as distribution, because AI surfaces the brands it recognizes as credible and trustworthy across search, shopping, and Gemini.",
-      "whyItMatters": "Ranking on page one matters less than being the business AI decides to recommend. This piece explains exactly why, and what to do about it."
-    },
-    {
-      "title": "Generative Engine Optimization News, November 2026 (Startup Edition)",
-      "author": "Mean CEO",
-      "source": "Mean CEO Blog",
-      "url": "https://blog.mean.ceo/generative-engine-optimization-news-november-2026/",
+      "title": "Best AI Tools for Small Business in 2026: What to Buy First",
+      "author": "TechBloat Team",
+      "source": "techbloat.com",
+      "url": "https://www.techbloat.com/ai-tools-for-small-business-which-should-you-choose-first.html",
       "category": "Practical",
-      "summary": "Published this week, this piece explains what GEO actually is in plain terms and walks small businesses through a step-by-step approach to showing up inside AI-generated answers on ChatGPT, Gemini, Perplexity, and Claude. The core insight is that small businesses have a real edge in long, specific prompts tied to location, niche, and industry, exactly the territory where local owners already know more than any algorithm.",
-      "whyItMatters": "Your next customer might ask ChatGPT who to hire before they ever open Google. This tells you exactly how to be the answer they get."
+      "summary": "Published November 14, this guide takes a job-based approach to choosing AI tools, matching each tool to a specific workflow (marketing, customer service, operations) with November 2026 pricing, free tiers, and suggested first pilots so you know exactly what to test and how to measure it. It's one of the more grounded, non-promotional roundups out this week.",
+      "whyItMatters": "You don't need a bigger stack. You need the right first tool for the right job, and this guide tells you which one that is."
     }
   ]
 }
