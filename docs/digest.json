@@ -1,24 +1,15 @@
 {
-  "weekOf": "Nov 10 to Nov 16, 2026",
-  "generatedAt": "2026-11-16T19:59:36.520Z",
+  "weekOf": "Nov 17 to Nov 23, 2026",
+  "generatedAt": "2026-11-23T21:53:25.507Z",
   "articles": [
     {
-      "title": "AI News This Week for Small Business | 15 November 2026",
-      "author": "Lilach Bullock",
-      "source": "lilachbullock.com",
-      "url": "https://www.lilachbullock.com/ai-news-this-week-for-small-business-15-november-2026/",
-      "category": "Practical",
-      "summary": "Published the day before this brief, this weekly roundup covers 22 AI updates ranked by how useful they are to small business owners right now, including the new ChatGPT Business Hub beta (where you can manage what AI surfaces about your business to buyers) and Gemini's new reusable Workspace skills. Bullock filters everything through one question: does this change what you should do in the next seven days.",
-      "whyItMatters": "ChatGPT Business Hub just opened in beta. If you sell anything online, claim your listing this week before your competitors do."
-    },
-    {
-      "title": "Marketing Trends Nov 16, 2026: AI Mode Ads, Black Friday",
-      "author": "b2the7.com",
-      "source": "b2the7.com",
-      "url": "https://www.b2the7.com/news-blog/marketing-trends-november-16-2026",
+      "title": "8 Ways to Use AI in Digital Marketing [+ Examples]",
+      "author": "HubSpot Blog",
+      "source": "HubSpot Blog",
+      "url": "https://blog.hubspot.com/marketing/ai-marketing",
       "category": "Strategy",
-      "summary": "This week's five-trend digest covers exactly what small business owners need to act on right now, including Google's new ads in AI Mode follow-up responses, Facebook AI pages appearing in Google results, and the AI content quality line that separates businesses that show up in AI search from those that don't. Black Friday is 11 days out, and the piece gives a clear-eyed read on what small businesses can and can't win.",
-      "whyItMatters": "Google is putting ads inside AI Mode follow-ups this week. That changes where your budget belongs, and this piece tells you what to do about it before the holiday push."
+      "summary": "HubSpot's freshly updated piece pulls from their 2026 State of AI in Marketing Report to show where small and large teams actually differ: small businesses lean hardest on AI for copy drafts, while only 10% of any team calls their adoption truly transformational. It maps eight concrete ways digital marketers are using AI today, from content creation to lead scoring, with real data behind each one.",
+      "whyItMatters": "Updated three days ago with 2026 data, this is the clearest snapshot of where your peers are and where you can still get ahead."
     },
     {
       "title": "These Marketing Trends Are Helping Small Businesses Get Ahead in 2026",
@@ -26,35 +17,44 @@
       "source": "Entrepreneur",
       "url": "https://www.entrepreneur.com/growing-a-business/marketing-trends-for-small-businesses-to-get-ahead-in-2026/503281",
       "category": "Strategy",
-      "summary": "Entrepreneur lays out the structural shift happening right now: the businesses winning in 2026 have stopped treating AI as a tool that assists marketing and started using it as the system that runs production, testing, and optimization, while humans focus on strategy and decisions. The piece also makes the case that the classic funnel is broken, discovery now happens across AI assistants and social feeds, so your visibility depends on whether AI systems trust and recognize your brand.",
-      "whyItMatters": "If AI assistants are the new front door to buying decisions, your brand needs to be legible to them, and this piece shows you exactly where to start."
+      "summary": "The piece argues the biggest shift in 2026 is not which AI tools you use, but how much autonomy you give them: the businesses winning are treating AI like an operating system for research, creative production, testing, and optimization, not a faster intern. It also makes a pointed case that the classic funnel is broken, discovery now happens across AI assistants and social feeds, so being visible to AI systems matters as much as ranking in Google.",
+      "whyItMatters": "If you are still using AI just to draft captions, this piece explains what the businesses pulling ahead are doing differently."
     },
     {
-      "title": "Constant Contact Launches AI Marketing Product for Small Businesses",
-      "author": "CPA Practice Advisor",
-      "source": "cpapracticeadvisor.com",
-      "url": "https://www.cpapracticeadvisor.com/2026/11/12/constant-contact-launches-ai-marketing-product-for-small-businesses/193776/",
-      "category": "Tools",
-      "summary": "Constant Contact just shipped Catalyst, an agentic AI product designed specifically for small business owners who don't have a marketing team. It analyzes your digital presence, finds growth gaps, builds personalized campaigns, and executes across email, social, and SMS, all with your sign-off before anything goes live. This is the clearest real-world example yet of AI moving from content helper to full campaign operator for a solo owner.",
-      "whyItMatters": "This is what agentic AI for small business actually looks like in practice, not a demo, a product you can join in early access right now."
+      "title": "Marketers Embrace AI as Consumer Trust Gap Widens for 2027",
+      "author": "Leland McFarland",
+      "source": "Small Biz Trends",
+      "url": "https://smallbiztrends.com/marketers-embrace-ai-as-consumer-trust-gap-widens-for-2027/",
+      "category": "Strategy",
+      "summary": "Published November 21, 2026, this piece draws on a fresh Adobe survey to flag the emerging tension: small businesses are ramping up AI-generated content fast, but consumer trust in that content is not keeping pace. The practical takeaway is to start AI where the stakes are low (summarizing campaigns, adapting promos, organizing data) and keep humans firmly in the loop for anything that makes a promise to a customer.",
+      "whyItMatters": "Using AI to publish more is easy. Using it without eroding what customers trust about your brand is the harder, more important problem to solve right now."
     },
     {
-      "title": "AI for Small Businesses: 27 Essential Tools for Real Business Growth",
-      "author": "HubSpot Blog",
-      "source": "HubSpot Blog",
-      "url": "https://blog.hubspot.com/sales/small-business-ai-tools",
+      "title": "How Small Businesses Plan to Use AI for Holiday Marketing in 2026",
+      "author": "Mailchimp",
+      "source": "Mailchimp Resources",
+      "url": "https://mailchimp.com/resources/ai-holiday-marketing-small-business-2026/",
       "category": "Practical",
-      "summary": "HubSpot's current guide covers 27 AI tools mapped to real small business jobs, from content and CRM to scheduling and customer support, anchored in fresh data showing 66% of small businesses now use AI and roughly a third of marketing teams save 10 to 14 hours a week. The comparison format makes it easy to match a tool to a gap in your stack without getting lost in feature lists.",
-      "whyItMatters": "The data here is from 2026, the tool comparisons are current, and the format is built for owners who need to pick something and move, not read a whitepaper."
+      "summary": "Built around QuickBooks' 2026 Holiday Shopping Survey, this piece shows that 76% of small businesses plan to use AI in holiday operations this year, with email and SMS campaigns the top use case. It also gives a step-by-step testing approach: draft multiple subject lines and offer angles in AI, test them on small segments first, then scale the winners into your main sends.",
+      "whyItMatters": "Small Business Saturday is five days away. This playbook gives you a concrete AI testing process you can run on your holiday emails before you hit send."
     },
     {
-      "title": "Best AI Tools for Small Business in 2026: What to Buy First",
-      "author": "TechBloat Team",
-      "source": "techbloat.com",
-      "url": "https://www.techbloat.com/ai-tools-for-small-business-which-should-you-choose-first.html",
+      "title": "AI Marketing Trends & Tools for Small Businesses in 2026",
+      "author": "The Vivid Digital",
+      "source": "The Vivid Digital",
+      "url": "https://thevividdigital.com/blog/ai-marketing-trends-tools-for-small-businesses-in-2026",
+      "category": "Strategy",
+      "summary": "This piece covers three trends that are actively reshaping how small businesses get found and win customers: zero-click search means AI systems, not web pages, are now the front door to buying decisions; agentic workflows are replacing single-purpose tools; and hyper-personalization at small-business prices is finally real inside tools like Mailchimp AI and HubSpot. It also introduces AI visibility monitoring as a new category worth watching.",
+      "whyItMatters": "If your SEO strategy is still built around Google rankings alone, this piece explains what else you need to be building for right now."
+    },
+    {
+      "title": "AI for Small Business Marketing: What Works in 2026",
+      "author": "Builts.ai",
+      "source": "Builts.ai Blog",
+      "url": "https://builts.ai/blog/ai-for-small-business-marketing-2026/",
       "category": "Practical",
-      "summary": "Published November 14, this guide takes a job-based approach to choosing AI tools, matching each tool to a specific workflow (marketing, customer service, operations) with November 2026 pricing, free tiers, and suggested first pilots so you know exactly what to test and how to measure it. It's one of the more grounded, non-promotional roundups out this week.",
-      "whyItMatters": "You don't need a bigger stack. You need the right first tool for the right job, and this guide tells you which one that is."
+      "summary": "Citing Gartner's 2026 AI Marketing Benchmark, this guide shows the five specific workflows saving small teams 12 to 18 hours per week: content first drafts, image creation, email personalization, ad copy variants, and analytics summaries. It also gives a phased four-to-six-week rollout plan, because the most common reason small teams abandon AI tools is adopting five at once and half-configuring all of them.",
+      "whyItMatters": "Pick one workflow from this list, run it for two weeks, and see the time savings before you add anything else to your stack."
     }
   ]
 }
